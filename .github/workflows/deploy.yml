@@ -1,0 +1,17 @@
+name: Trigger web deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+
+      - name: Trigger deployment
+        run: curl -X POST ${{ secrets.DEPLOY_HOOK }}
