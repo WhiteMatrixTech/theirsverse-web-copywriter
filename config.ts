@@ -147,33 +147,33 @@ export default {
   socials: [
     {
       title: 'gmail',
-      img: 'https://theirsverse-resource.s3.ap-northeast-1.amazonaws.com/footer/mail.svg',
+      img: `${BaseUrl}/footer/mail.svg`,
       link: '/'
     },
     {
       title: 'instagram',
-      img: 'https://theirsverse-resource.s3.ap-northeast-1.amazonaws.com/footer/ins.svg',
-      link: '/'
+      img: `${BaseUrl}/footer/ins.svg`,
+      link: 'https://instagram.com/theirsverse?utm_medium=copy_link'
     },
     {
       title: 'tiktok',
-      img: 'https://theirsverse-resource.s3.ap-northeast-1.amazonaws.com/footer/tiktok.svg',
+      img: `${BaseUrl}/footer/tiktok.svg`,
       link: '/'
     },
     {
       title: 'medium',
-      img: 'https://theirsverse-resource.s3.ap-northeast-1.amazonaws.com/footer/medium.svg',
-      link: '/'
+      img: `${BaseUrl}/footer/medium.svg`,
+      link: 'https://mirror.xyz/0xafd0a1002c0c90AecE4BAc54A1d67d9412053Fb2'
     },
     {
       title: 'opensea',
-      img: 'https://theirsverse-resource.s3.ap-northeast-1.amazonaws.com/footer/opensea.svg',
+      img: `${BaseUrl}/footer/opensea.svg`,
       link: '/'
     },
     {
       title: 'twitter',
-      img: 'https://theirsverse-resource.s3.ap-northeast-1.amazonaws.com/footer/twitter.svg',
-      link: '/'
+      img: `${BaseUrl}/footer/twitter.svg`,
+      link: 'https://twitter.com/Theirsverse?s=20&t=-khzvp71PYDNJKi72f-e2g'
     },
   ]
 }
