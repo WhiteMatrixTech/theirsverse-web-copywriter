@@ -161,8 +161,8 @@ export default {
 //       link: '/'
 //     },
     {
-      title: 'medium',
-      img: `${BaseURL}footer/medium.svg`,
+      title: 'mirror',
+      img: `${BaseURL}footer/mirror.svg`,
       link: 'https://mirror.xyz/0xafd0a1002c0c90AecE4BAc54A1d67d9412053Fb2'
     },
 //     {
