@@ -145,31 +145,31 @@ export default {
     image: BaseURL + 'nftcollection/THEIRSVERSE.jpg'
   },
   socials: [
-    {
-      title: 'gmail',
-      img: `${BaseURL}footer/mail.svg`,
-      link: '/'
-    },
+//     {
+//       title: 'gmail',
+//       img: `${BaseURL}footer/mail.svg`,
+//       link: '/'
+//     },
     {
       title: 'instagram',
       img: `${BaseURL}footer/ins.svg`,
       link: 'https://instagram.com/theirsverse?utm_medium=copy_link'
     },
-    {
-      title: 'tiktok',
-      img: `${BaseURL}footer/tiktok.svg`,
-      link: '/'
-    },
+//     {
+//       title: 'tiktok',
+//       img: `${BaseURL}footer/tiktok.svg`,
+//       link: '/'
+//     },
     {
       title: 'medium',
       img: `${BaseURL}footer/medium.svg`,
       link: 'https://mirror.xyz/0xafd0a1002c0c90AecE4BAc54A1d67d9412053Fb2'
     },
-    {
-      title: 'opensea',
-      img: `${BaseURL}footer/opensea.svg`,
-      link: '/'
-    },
+//     {
+//       title: 'opensea',
+//       img: `${BaseURL}footer/opensea.svg`,
+//       link: '/'
+//     },
     {
       title: 'twitter',
       img: `${BaseURL}footer/twitter.svg`,
