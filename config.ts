@@ -147,9 +147,6 @@ export default {
       lock: true
     },
   ],
-  future: {
-    image: BaseURL + 'nftcollection/THEIRSVERSE.jpg'
-  },
   socials: [
     //     {
     //       title: 'gmail',
