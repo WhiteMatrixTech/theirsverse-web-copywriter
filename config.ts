@@ -45,7 +45,7 @@ export default {
     {
       source: BaseURL + 'nftcollection/SUIT-JY.png',
       title: 'SUIT',
-      des: 'We all have two souls',
+      des: 'We all have two souls.',
       background: '#BCCEC0',
       rgb: [188, 206, 192]
     },
@@ -59,7 +59,7 @@ export default {
     {
       source: BaseURL + 'nftcollection/ZODIAC-JY.png',
       title: 'ZODIAC',
-      des: 'tions or the Eastern zodiac signs, you can use them to find out about your personality and destiny.!',
+      des: 'Tions or the Eastern zodiac signs, you can use them to find out about your personality and destiny!',
       background: '#E1DFC8',
       rgb: [225, 223, 200]
     },
@@ -73,14 +73,14 @@ export default {
     {
       source: BaseURL + 'nftcollection/BINARYOPPOSITIONS-JY.png',
       title: 'BINARY OPPOSITIONS',
-      des: 'The world is not just black or white. ',
+      des: 'The world is not just black or white.',
       background: '#B8C8D1',
       rgb: [184, 200, 209]
     },
     {
       source: BaseURL + 'nftcollection/DYNASTY-JY.png',
       title: 'DYNASTY',
-      des: 'Love different cultures. ',
+      des: 'Love different cultures.',
       background: '#CBE6E3',
       rgb: [203, 230, 227]
     },
@@ -214,5 +214,33 @@ export default {
       img: `${BaseURL}footer/twitter.svg`,
       link: 'https://twitter.com/Theirsverse?s=20&t=-khzvp71PYDNJKi72f-e2g'
     },
-  ]
+  ],
+  about: {
+    leftDesc1: `Theirs-verse is a community that discriminates.`,
+    leftDesc2: `no color, gender or sexual orientation.`,
+    //  white-space: pre-line;
+    leftDesc3: `Intersectionality is causing multiple divides in the human race
+                 Why do we focus so much on how others are different from us when
+                 we can just embrace each others uniqueness`,
+    rightDesc1: `Theirs,Theirs,a gender neutral pronoun.`,
+    rightDesc2: `Theirsverse hopes to extend the concept of decentralization to a
+                    higher level
+                    To find a universal language that bonds everyone
+                    To recognize ourselves as a collective of drastically different yet equally beautiful stories.`,
+    rightDesc3: `We Are Theirs.`
+  },
+  artists: {
+    h2Title1: `Eyes are the window to the soul.`,
+    desc1: `A nihilistic approach was adopted when it came to making the
+            eyes of our NFT
+            Holders are invited to resonate with its soul through a hollow
+            stare`,
+    h2Title2: `Imperfect is perfect.`,
+    desc2: `Our NFT stares blankly ahead towards the traditional standards of
+            beauty
+            The imperfections are what made us unique`,
+    desc3: `In Theirsverse, our artists embrace the fluidity of gender
+            You can create your own new identities
+            We want to find a universal language for younger generation`
+  }
 }
