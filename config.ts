@@ -224,7 +224,7 @@ export default {
     leftDesc3: `Intersectionality is causing multiple divides in the human race.
                  Why do we focus so much on how others are different from us when
                  we can just embrace each others uniqueness.`,
-    rightDesc1: `Theirs,Theirs,a gender neutral pronoun.`,
+    rightDesc1: `Theirs,a gender neutral pronoun.`,
     rightDesc2: `Theirsverse hopes to extend the concept of decentralization to a
                     higher level.
                     To find a universal language that bonds everyone.
