@@ -32,7 +32,7 @@ export default {
     {
       source: BaseURL + 'nftcollection/SUIT-JY.png',
       title: 'SUIT',
-      des: 'We all have two souls',
+      des: 'We all have two souls.',
       background: '#BCCEC0',
       rgb: [188, 206, 192]
     },
@@ -46,7 +46,7 @@ export default {
     {
       source: BaseURL + 'nftcollection/ZODIAC-JY.png',
       title: 'ZODIAC',
-      des: 'tions or the Eastern zodiac signs, you can use them to find out about your personality and destiny.!',
+      des: 'Tions or the Eastern zodiac signs, you can use them to find out about your personality and destiny!',
       background: '#E1DFC8',
       rgb: [225, 223, 200]
     },
@@ -60,14 +60,14 @@ export default {
     {
       source: BaseURL + 'nftcollection/BINARYOPPOSITIONS-JY.png',
       title: 'BINARY OPPOSITIONS',
-      des: 'The world is not just black or white. ',
+      des: 'The world is not just black or white.',
       background: '#B8C8D1',
       rgb: [184, 200, 209]
     },
     {
       source: BaseURL + 'nftcollection/DYNASTY-JY.png',
       title: 'DYNASTY',
-      des: 'Love different cultures. ',
+      des: 'Love different cultures.',
       background: '#CBE6E3',
       rgb: [203, 230, 227]
     },
@@ -85,7 +85,7 @@ export default {
     {
       image: BaseURL + 'nftcollection/BINARYOPPOSITIONS-JY.png',
       title: 'BINARY OPPOSITIONS',
-      des: 'The world is not just black or white. ',
+      des: 'The world is not just black or white.',
       background: '#B8C8D1',
       rgb: [184, 200, 209],
       lock: true
@@ -117,7 +117,7 @@ export default {
     {
       image: BaseURL + 'nftcollection/ZODIAC-JY.png',
       title: '12 ZODIAC',
-      des: 'tions or the Eastern zodiac signs, you can use them to find out about your personality and destiny.!',
+      des: 'Tions or the Eastern zodiac signs, you can use them to find out about your personality and destiny!',
       background: '#E1DFC8',
       rgb: [225, 223, 200],
       lock: true
@@ -125,7 +125,7 @@ export default {
     {
       image: BaseURL + 'nftcollection/SUIT-JY.png',
       title: 'SUIT',
-      des: 'We all have two souls',
+      des: 'We all have two souls.',
       background: '#BCCEC0',
       rgb: [188, 206, 192],
       lock: true
@@ -141,7 +141,7 @@ export default {
     {
       image: BaseURL + 'nftcollection/DYNASTY-JY.png',
       title: 'DYNASTY',
-      des: 'Love different cultures. ',
+      des: 'Love different cultures.',
       background: '#CBE6E3',
       rgb: [203, 230, 227],
       lock: true
