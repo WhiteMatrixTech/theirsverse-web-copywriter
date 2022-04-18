@@ -182,32 +182,29 @@ export default {
   about: {
     leftDesc1: `Theirs-verse is a community that discriminates.`,
     leftDesc2: `no color, gender or sexual orientation.`,
-    leftDesc3: `Intersectionality is causing multiple
-              divides in the human race Why do we focus
-              so much on how others are different from
-              us when we can just embrace each others
-              uniqueness.`,
+    //  white-space: pre-line;
+    leftDesc3: `Intersectionality is causing multiple divides in the human race
+                 Why do we focus so much on how others are different from us when
+                 we can just embrace each others uniqueness`,
     rightDesc1: `Theirs,Theirs,a gender neutral pronoun.`,
-    rightDesc2: `o a higher level.
-              To ﬁnd auniversal language that bonds
-              everyoneTorecognize ourselves as a
-              collective ofdrastically diﬀerent yet equally
-              beautifulstories.`,
+    rightDesc2: `Theirsverse hopes to extend the concept of decentralization to a
+                    higher level
+                    To find a universal language that bonds everyone
+                    To recognize ourselves as a collective of drastically different yet equally beautiful stories.`,
     rightDesc3: `We Are Theirs.`
   },
   artists: {
     h2Title1: `Eyes are the window to the soul.`,
-    desc1: `A nihilistic approach was adopted when it
-        came to making the Holders are invited to
-        resonate with its soul through a hollow
-        eyes of our NFT stare.`,
+    desc1: `A nihilistic approach was adopted when it came to making the
+            eyes of our NFT
+            Holders are invited to resonate with its soul through a hollow
+            stare`,
     h2Title2: `Imperfect is perfect.`,
-    desc2: `Our NFT stares blankly ahead towards the
-        traditional standards of beauty The imper-
-        fections are what made us unique.`,
-    desc3: `In Theirsverse, our artists embrace the
-        fluidity of gender You can create your own
-        new identities We want to find a universal
-        language for younger generation.`
+    desc2: `Our NFT stares blankly ahead towards the traditional standards of
+            beauty
+            The imperfections are what made us unique`,
+    desc3: `In Theirsverse, our artists embrace the fluidity of gender
+            You can create your own new identities
+            We want to find a universal language for younger generation`
   }
 }
