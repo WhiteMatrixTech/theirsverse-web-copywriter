@@ -217,7 +217,7 @@ export default {
   ],
   about: {
     mobileLeftDesc1: `Theirs-verse is a community that discriminates.`,
-    pcLeftDesc: `Theirsverse is a community that discriminates.`,
+    pcLeftDesc1: `Theirsverse is a community that discriminates.`,
     leftDesc2: `no color, gender or sexual orientation.`,
     //  white-space: pre-line;
     leftDesc3: `Intersectionality is causing multiple divides in the human race
