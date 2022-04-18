@@ -2,9 +2,22 @@ export const BaseURL = 'https://d6bsd1popru6t.cloudfront.net/'
 export default {
   title: 'Theirsverse',
   rodMap: {
-    roadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-web.png'
+    title: 'ROADMAP',
+    roadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-web.png',
+    line1: 'Theirsverse is a new kind of brand that we build together for native web3 generation',
+    line2: 'Owning a Theirsverse NFT allows you to be the contributor and investor of a community-driven web3 brand',
+    line3: 'It starts with building original IP in the metaverse, IRL art and fashion events, luxury collabs and much more that will be revealed over time'
   },
   future: {
+    title: 'ABOUT FUTURE',
+    line1: 'Create a one-stop experience for',
+    line2: 'social, economic co-creation, gaming and art publishing',
+    line3: 'Everyone can find joy in the community!',
+    part1: 'Donate percentages of revenue to minority groups in need',
+    part2: 'Theirsverse owners have the opportunity to get airdrop and exclusive benefits',
+    part3: 'Theirsverse holders enjoy priority in planning and attending concerts and IRL art events',
+    part4: 'Artists who help co-create NFTs have the right to vote on future limited editions',
+    part5: 'Support young artists worldwide in art, fashion, visual media and music to participate in Theirsverse',
     futureImg: 'https://d6bsd1popru6t.cloudfront.net/aboutfuture.jpg'
   },
   nft2: [
@@ -72,81 +85,104 @@ export default {
       rgb: [203, 230, 227]
     },
   ],
-  nft1: [
-    {
-      image: BaseURL + 'nftcollection/RAINBOW.png',
-      title: 'RAINBOW',
-      des: 'Love is love.',
-      background: '#CDC3C4',
-      rgb: [205, 195, 196],
-      lock: false,
-      target: BaseURL + 'rainbow.gif'
+  nft1: {
+    describe: {
+      days: {
+        number: 270,
+        unit: 'days'
+      },
+      artists: {
+        number: 10,
+        unit: 'Theirsverse artists, '
+      },
+      collections: {
+        number: 9,
+        unit: 'collections,'
+      },
+      layers: {
+        firstPart: 'Each NFT is composed of',
+        secondPart: '8-10 ',
+        lastPart: 'separate layers'
+      },
+      line3: 'From outfits, hair and make up, shoes, skin colors, accessories to special designs',
+      line4: 'altogether 866 individual units present an astonishingly glamorous metaverse'
     },
-    {
-      image: BaseURL + 'nftcollection/BINARYOPPOSITIONS-JY.png',
-      title: 'BINARY OPPOSITIONS',
-      des: 'The world is not just black or white. ',
-      background: '#B8C8D1',
-      rgb: [184, 200, 209],
-      lock: true
-    },
-    {
-      image: BaseURL + 'nftcollection/QUEEN-JY.png',
-      title: 'QUEEN',
-      des: 'Gender is not objective, it’s from the mind.',
-      background: '#E5CFD3',
-      rgb: [229, 207, 211],
-      lock: true
-    },
-    {
-      image: BaseURL + 'nftcollection/SUPER+STAR-JY.png',
-      title: 'SUPER STAR',
-      des: 'Shining your light!',
-      background: '#E5EAC3',
-      rgb: [229, 234, 195],
-      lock: true
-    },
-    {
-      image: BaseURL + 'nftcollection/TAROT-JY.png',
-      title: 'TAROT',
-      des: 'Talk to the future.',
-      background: '#E3B5D5',
-      rgb: [227, 181, 213],
-      lock: true
-    },
-    {
-      image: BaseURL + 'nftcollection/ZODIAC-JY.png',
-      title: '12 ZODIAC',
-      des: 'tions or the Eastern zodiac signs, you can use them to find out about your personality and destiny.!',
-      background: '#E1DFC8',
-      rgb: [225, 223, 200],
-      lock: true
-    },
-    {
-      image: BaseURL + 'nftcollection/SUIT-JY.png',
-      title: 'SUIT',
-      des: 'We all have two souls',
-      background: '#BCCEC0',
-      rgb: [188, 206, 192],
-      lock: true
-    },
-    {
-      image: BaseURL + 'nftcollection/CYBERPUNK.png',
-      title: 'CYBERPUNK',
-      des: 'Lowlife and high-tech.',
-      background: '#E7CFE3',
-      rgb: [231, 207, 227],
-      lock: true
-    },
-    {
-      image: BaseURL + 'nftcollection/DYNASTY-JY.png',
-      title: 'DYNASTY',
-      des: 'Love different cultures. ',
-      background: '#CBE6E3',
-      rgb: [203, 230, 227],
-      lock: true
-    },
-  ],
+    box: [
+      {
+        image: BaseURL + 'nftcollection/RAINBOW.png',
+        title: 'RAINBOW',
+        des: 'Love is love.',
+        background: '#CDC3C4',
+        rgb: [205, 195, 196],
+        lock: false,
+        target: BaseURL + 'rainbow.gif'
+      },
+      {
+        image: BaseURL + 'nftcollection/BINARYOPPOSITIONS-JY.png',
+        title: 'BINARY OPPOSITIONS',
+        des: 'The world is not just black or white. ',
+        background: '#B8C8D1',
+        rgb: [184, 200, 209],
+        lock: true
+      },
+      {
+        image: BaseURL + 'nftcollection/QUEEN-JY.png',
+        title: 'QUEEN',
+        des: 'Gender is not objective, it’s from the mind.',
+        background: '#E5CFD3',
+        rgb: [229, 207, 211],
+        lock: true
+      },
+      {
+        image: BaseURL + 'nftcollection/SUPER+STAR-JY.png',
+        title: 'SUPER STAR',
+        des: 'Shining your light!',
+        background: '#E5EAC3',
+        rgb: [229, 234, 195],
+        lock: true
+      },
+      {
+        image: BaseURL + 'nftcollection/TAROT-JY.png',
+        title: 'TAROT',
+        des: 'Talk to the future.',
+        background: '#E3B5D5',
+        rgb: [227, 181, 213],
+        lock: true
+      },
+      {
+        image: BaseURL + 'nftcollection/ZODIAC-JY.png',
+        title: '12 ZODIAC',
+        des: 'tions or the Eastern zodiac signs, you can use them to find out about your personality and destiny.!',
+        background: '#E1DFC8',
+        rgb: [225, 223, 200],
+        lock: true
+      },
+      {
+        image: BaseURL + 'nftcollection/SUIT-JY.png',
+        title: 'SUIT',
+        des: 'We all have two souls',
+        background: '#BCCEC0',
+        rgb: [188, 206, 192],
+        lock: true
+      },
+      {
+        image: BaseURL + 'nftcollection/CYBERPUNK.png',
+        title: 'CYBERPUNK',
+        des: 'Lowlife and high-tech.',
+        background: '#E7CFE3',
+        rgb: [231, 207, 227],
+        lock: true
+      },
+      {
+        image: BaseURL + 'nftcollection/DYNASTY-JY.png',
+        title: 'DYNASTY',
+        des: 'Love different cultures. ',
+        background: '#CBE6E3',
+        rgb: [203, 230, 227],
+        lock: true
+      },
+    ]
+  },
   socials: [
     //     {
     //       title: 'gmail',
