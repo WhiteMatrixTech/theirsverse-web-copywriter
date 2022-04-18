@@ -199,31 +199,33 @@ export default {
     },
   ],
   about: {
-    leftDesc1: `Theirs-verse is a community that discriminates.`,
-    leftDesc2: `no color, gender or sexual orientation.`,
+    mobileLeftDesc1: `Theirs-verse is a community that discriminates.`,
+    pcLeftDesc1: `Theirsverse is a community that discriminates.`,
+    leftDesc2: `no color, gender or sexual
+                orientation.`,
     //  white-space: pre-line;
-    leftDesc3: `Intersectionality is causing multiple divides in the human race
+    leftDesc3: `Intersectionality is causing multiple divides in the human race.
                  Why do we focus so much on how others are different from us when
-                 we can just embrace each others uniqueness`,
+                 we can just embrace each others uniqueness.`,
     rightDesc1: `Theirs,Theirs,a gender neutral pronoun.`,
     rightDesc2: `Theirsverse hopes to extend the concept of decentralization to a
-                    higher level
-                    To find a universal language that bonds everyone
+                    higher level.
+                    To find a universal language that bonds everyone.
                     To recognize ourselves as a collective of drastically different yet equally beautiful stories.`,
     rightDesc3: `We Are Theirs.`
   },
   artists: {
     h2Title1: `Eyes are the window to the soul.`,
     desc1: `A nihilistic approach was adopted when it came to making the
-            eyes of our NFT
+            eyes of our NFT.
             Holders are invited to resonate with its soul through a hollow
-            stare`,
+            stare.`,
     h2Title2: `Imperfect is perfect.`,
     desc2: `Our NFT stares blankly ahead towards the traditional standards of
-            beauty
-            The imperfections are what made us unique`,
-    desc3: `In Theirsverse, our artists embrace the fluidity of gender
-            You can create your own new identities
-            We want to find a universal language for younger generation`
+            beauty.
+            The imperfections are what made us unique.`,
+    desc3: `In Theirsverse, our artists embrace the fluidity of gender.
+            You can create your own new identities.
+            We want to find a universal language for younger generation.`
   }
 }
