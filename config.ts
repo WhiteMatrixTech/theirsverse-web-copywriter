@@ -171,31 +171,37 @@ export default {
     //     {
     //       title: 'gmail',
     //       img: `${BaseURL}footer/mail.svg`,
+    //       header_image: `${BaseURL}social_header/mail.png`
     //       link: '/'
     //     },
     {
       title: 'instagram',
       img: `${BaseURL}footer/ins.svg`,
+      header_image: `${BaseURL}social_header/ins.png`,
       link: 'https://instagram.com/theirsverse?utm_medium=copy_link'
     },
     //     {
     //       title: 'tiktok',
     //       img: `${BaseURL}footer/tiktok.svg`,
+    //       header_image: `${BaseURL}social_header/tiktok.png`,
     //       link: '/'
     //     },
     {
       title: 'mirror',
       img: `${BaseURL}footer/mirror.svg`,
+      header_image: `${BaseURL}social_header/mirror.png`,
       link: 'https://mirror.xyz/0xafd0a1002c0c90AecE4BAc54A1d67d9412053Fb2'
     },
     //     {
     //       title: 'opensea',
     //       img: `${BaseURL}footer/opensea.svg`,
+    //       header_image: `${BaseURL}social_header/opensea.png`,
     //       link: '/'
     //     },
     {
       title: 'twitter',
       img: `${BaseURL}footer/twitter.svg`,
+      header_image: `${BaseURL}social_header/twitter.png`,
       link: 'https://twitter.com/Theirsverse?s=20&t=-khzvp71PYDNJKi72f-e2g'
     },
   ],
