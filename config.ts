@@ -90,7 +90,7 @@ export default {
     describe: {
       days: {
         number: 270,
-        unit: 'days'
+        unit: 'days,'
       },
       artists: {
         number: 10,
@@ -208,8 +208,8 @@ export default {
   about: {
     mobileLeftDesc1: `Theirs-verse is a community that discriminates.`,
     pcLeftDesc1: `Theirsverse is a community that discriminates.`,
-    leftDesc2: `no color, gender or sexual
-                orientation`,
+    leftDesc2: `no color, gender or 
+                sexual orientation`,
     //  white-space: pre-line;
     leftDesc3: `Intersectionality is causing multiple divides in the human race.
                  Why do we focus so much on how others are different from us when
@@ -229,10 +229,10 @@ export default {
             stare.`,
     h2Title2: `Imperfect is perfect.`,
     desc2: `Our NFT stares blankly ahead towards the traditional standards of
-            beauty.
-            The imperfections are what made us unique.`,
-    desc3: `In Theirsverse, our artists embrace the fluidity of gender.
-            You can create your own new identities.
-            We want to find a universal language for younger generation.`
+            beauty,
+            the imperfections are what made us unique.`,
+    desc3: `In Theirsverse, our artists embrace the fluidity of gender,
+            you can create your own new identities,
+            we want to find a universal language for younger generation.`
   }
 }
