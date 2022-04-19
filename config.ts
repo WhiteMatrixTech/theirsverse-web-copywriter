@@ -1,9 +1,10 @@
 export const BaseURL = 'https://d6bsd1popru6t.cloudfront.net/'
 export default {
   title: 'Theirsverse',
-  rodMap: {
+  roadMap: {
     title: 'ROADMAP',
     roadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-web.png',
+    iphoneRoadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-mobile.png',
     line1: 'Theirsverse is a new kind of brand that we build together for native web3 generation.',
     line2: 'Owning a Theirsverse NFT allows you to be the contributor and investor of a community-driven web3 brand.',
     line3: 'It starts with building original IP in the metaverse, IRL art and fashion events, luxury collabs and much more that will be revealed over time.'
