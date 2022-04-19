@@ -1,9 +1,10 @@
 export const BaseURL = 'https://d6bsd1popru6t.cloudfront.net/'
 export default {
   title: 'Theirsverse',
-  rodMap: {
+  roadMap: {
     title: 'ROADMAP',
     roadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-web.png',
+    iphoneRoadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-mobile.png',
     line1: 'Theirsverse is a new kind of brand that we build together for native web3 generation.',
     line2: 'Owning a Theirsverse NFT allows you to be the contributor and investor of a community-driven web3 brand.',
     line3: 'It starts with building original IP in the metaverse, IRL art and fashion events, luxury collabs and much more that will be revealed over time.'
@@ -22,63 +23,63 @@ export default {
   },
   nft2: [
     {
-      source: BaseURL + 'nftcollection/SUPER+STAR.png',
+      source: BaseURL + 'n-nft1/SUPERSTAR.png',
       title: 'SUPER STAR',
       des: 'Shining your light!',
       background: '#E5EAC3',
       rgb: [229, 234, 195],
     },
     {
-      source: BaseURL + 'nftcollection/RAINBOW.png',
+      source: BaseURL + 'n-nft1/RAINBOW.png',
       title: 'RAINBOW',
       des: 'Love is love.',
       background: '#CDC3C4',
       rgb: [205, 195, 196]
     },
     {
-      source: BaseURL + 'nftcollection/CYBERPUNK.png',
+      source: BaseURL + 'n-nft1/CYBERPUNK.png',
       title: 'CYBERPUNK',
       des: 'Lowlife and high-tech.',
       background: '#E7CFE3',
       rgb: [231, 207, 227]
     },
     {
-      source: BaseURL + 'nftcollection/SUIT-JY.png',
+      source: BaseURL + 'n-nft1/SUIT-JY.png',
       title: 'SUIT',
       des: 'We all have two souls.',
       background: '#BCCEC0',
       rgb: [188, 206, 192]
     },
     {
-      source: BaseURL + 'nftcollection/TAROT-JY.png',
+      source: BaseURL + 'n-nft1/TAROT-JY.png',
       title: 'TAROT',
       des: 'Talk to the future.',
       background: '#E3B5D5',
       rgb: [227, 181, 213]
     },
     {
-      source: BaseURL + 'nftcollection/ZODIAC-JY.png',
+      source: BaseURL + 'n-nft1/ZODIAC-JY.png',
       title: 'ZODIAC',
       des: 'Tions or the Eastern zodiac signs, you can use them to find out about your personality and destiny!',
       background: '#E1DFC8',
       rgb: [225, 223, 200]
     },
     {
-      source: BaseURL + 'nftcollection/QUEEN-JY.png',
+      source: BaseURL + 'n-nft1/QUEEN-JY.png',
       title: 'QUEEN',
       des: 'Gender is not objective, it’s from the mind.',
       background: '#E5CFD3',
       rgb: [229, 207, 211]
     },
     {
-      source: BaseURL + 'nftcollection/BINARYOPPOSITIONS-JY.png',
+      source: BaseURL + 'n-nft1/BINARYOPPOSITION-JY.png',
       title: 'BINARY OPPOSITIONS',
       des: 'The world is not just black or white.',
       background: '#B8C8D1',
       rgb: [184, 200, 209]
     },
     {
-      source: BaseURL + 'nftcollection/DYNASTY-JY.png',
+      source: BaseURL + 'n-nft1/DYNASTY-JY.png',
       title: 'DYNASTY',
       des: 'Love different cultures.',
       background: '#CBE6E3',
@@ -89,7 +90,7 @@ export default {
     describe: {
       days: {
         number: 270,
-        unit: 'days'
+        unit: 'days,'
       },
       artists: {
         number: 10,
@@ -109,58 +110,58 @@ export default {
     },
     box: [
       {
-        image: BaseURL + 'nftcollection/RAINBOW.png',
-        title: 'RAINBOW',
+        image: BaseURL + 'nft1/RAINBOW.png',
+        title: 'Rainbow',
         background: '#CDC3C4',
         lock: false,
         target: BaseURL + 'rainbow.gif'
       },
       {
-        image: BaseURL + 'nftcollection/BINARYOPPOSITIONS-JY.png',
-        title: 'BINARY OPPOSITIONS',
+        image: BaseURL + 'nft1/CYBERPUNK.png',
+        title: 'Cyberpunk',
         background: '#B8C8D1',
         rgb: [184, 200, 209],
         lock: true
       },
       {
-        image: BaseURL + 'nftcollection/QUEEN-JY.png',
-        title: 'QUEEN',
+        image: BaseURL + 'nft1/SUPERSTAR.png',
+        title: 'Super Star',
         background: '#E5CFD3',
         lock: true
       },
       {
-        image: BaseURL + 'nftcollection/SUPER+STAR-JY.png',
-        title: 'SUPER STAR',
+        image: BaseURL + 'nft1/DYNASTY-JY.png',
+        title: 'Dynasty',
         background: '#E5EAC3',
         lock: true
       },
       {
-        image: BaseURL + 'nftcollection/TAROT-JY.png',
-        title: 'TAROT',
+        image: BaseURL + 'nft1/ZODIAC-JY.png',
+        title: '12 Zodiac',
         background: '#E3B5D5',
         lock: true
       },
       {
-        image: BaseURL + 'nftcollection/ZODIAC-JY.png',
-        title: '12 ZODIAC',
+        image: BaseURL + 'nft1/TAROT-JY.png',
+        title: 'Tarot',
         background: '#E1DFC8',
         lock: true
       },
       {
-        image: BaseURL + 'nftcollection/SUIT-JY.png',
+        image: BaseURL + 'nft1/SUIT-JY.png',
         title: 'SUIT',
         background: '#BCCEC0',
         lock: true
       },
       {
-        image: BaseURL + 'nftcollection/CYBERPUNK.png',
-        title: 'CYBERPUNK',
+        image: BaseURL + 'nft1/QUEEN-JY.png',
+        title: 'Queen',
         background: '#E7CFE3',
         lock: true
       },
       {
-        image: BaseURL + 'nftcollection/DYNASTY-JY.png',
-        title: 'DYNASTY',
+        image: BaseURL + 'nft1/BINARYOPPOSITION-JY.png',
+        title: 'Binary Opposition',
         background: '#CBE6E3',
         lock: true
       },
@@ -170,39 +171,45 @@ export default {
     //     {
     //       title: 'gmail',
     //       img: `${BaseURL}footer/mail.svg`,
+    //       header_image: `${BaseURL}social_header/mail.png`
     //       link: '/'
     //     },
     {
       title: 'instagram',
       img: `${BaseURL}footer/ins.svg`,
+      header_image: `${BaseURL}social_header/ins.png`,
       link: 'https://instagram.com/theirsverse?utm_medium=copy_link'
     },
     //     {
     //       title: 'tiktok',
     //       img: `${BaseURL}footer/tiktok.svg`,
+    //       header_image: `${BaseURL}social_header/tiktok.png`,
     //       link: '/'
     //     },
     {
       title: 'mirror',
       img: `${BaseURL}footer/mirror.svg`,
+      header_image: `${BaseURL}social_header/mirror.png`,
       link: 'https://mirror.xyz/0xafd0a1002c0c90AecE4BAc54A1d67d9412053Fb2'
     },
     //     {
     //       title: 'opensea',
     //       img: `${BaseURL}footer/opensea.svg`,
+    //       header_image: `${BaseURL}social_header/opensea.png`,
     //       link: '/'
     //     },
     {
       title: 'twitter',
       img: `${BaseURL}footer/twitter.svg`,
+      header_image: `${BaseURL}social_header/twitter.png`,
       link: 'https://twitter.com/Theirsverse?s=20&t=-khzvp71PYDNJKi72f-e2g'
     },
   ],
   about: {
     mobileLeftDesc1: `Theirs-verse is a community that discriminates.`,
     pcLeftDesc1: `Theirsverse is a community that discriminates.`,
-    leftDesc2: `no color, gender or sexual
-                orientation`,
+    leftDesc2: `no color, gender or 
+                sexual orientation`,
     //  white-space: pre-line;
     leftDesc3: `Intersectionality is causing multiple divides in the human race.
                  Why do we focus so much on how others are different from us when
@@ -222,10 +229,10 @@ export default {
             stare.`,
     h2Title2: `Imperfect is perfect`,
     desc2: `Our NFT stares blankly ahead towards the traditional standards of
-            beauty.
-            The imperfections are what made us unique.`,
-    desc3: `In Theirsverse, our artists embrace the fluidity of gender.
-            You can create your own new identities.
-            We want to find a universal language for younger generation.`
+            beauty,
+            the imperfections are what made us unique.`,
+    desc3: `In Theirsverse, our artists embrace the fluidity of gender,
+            you can create your own new identities,
+            we want to find a universal language for younger generation.`
   }
 }
