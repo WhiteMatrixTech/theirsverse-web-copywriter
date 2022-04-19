@@ -215,12 +215,12 @@ export default {
     rightDesc3: `We Are Theirs.`
   },
   artists: {
-    h2Title1: `Eyes are the window to the soul.`,
+    h2Title1: `Eyes are the window to the soul`,
     desc1: `A nihilistic approach was adopted when it came to making the
             eyes of our NFT.
             Holders are invited to resonate with its soul through a hollow
             stare.`,
-    h2Title2: `Imperfect is perfect.`,
+    h2Title2: `Imperfect is perfect`,
     desc2: `Our NFT stares blankly ahead towards the traditional standards of
             beauty.
             The imperfections are what made us unique.`,
