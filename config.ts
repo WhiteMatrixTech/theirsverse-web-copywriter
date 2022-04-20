@@ -12,8 +12,8 @@ export default {
   future: {
     title: 'ABOUT FUTURE',
     line1: 'Theirsverse strives to be an open community',
-    line2: ' for building a multi-ethnic,',
-    line3: ' social co-creation for art, music, games, and fashion.',
+    line2: 'for building a multi-ethnic,social co-creation for art, music, games, and fashion.',
+    line3: '',
     part1: 'Each project will donate a percentage of profits to organizations that uplift minority at risk programs;',
     part2: 'Owners of Theirsverse will have exclusive rewards and updates;',
     part3: 'NFT holders will have priority for art exhibitions and concerts;',
@@ -24,35 +24,35 @@ export default {
   nft2: [
     {
       source: BaseURL + 'n-nft1/SUPERSTAR.png',
-      title: 'SUPER STAR',
+      title: 'Super Star',
       des: 'Shining your light!',
       background: '#b18dbd',
       rgb: [229, 234, 195],
     },
     {
       source: BaseURL + 'n-nft1/RAINBOW.png',
-      title: 'RAINBOW',
+      title: 'Rainbow',
       des: 'Love is love.',
       background: '#f9ccca',
       rgb: [205, 195, 196]
     },
     {
       source: BaseURL + 'n-nft1/CYBERPUNK.png',
-      title: 'CYBERPUNK',
+      title: 'Cyberpunk',
       des: 'Lowlife and high-tech.',
       background: '#c1d5e8',
       rgb: [231, 207, 227]
     },
     {
       source: BaseURL + 'n-nft1/SUIT-JY.png',
-      title: 'SUIT',
+      title: 'Suit',
       des: 'We all have two souls.',
       background: '#c1d6c4',
       rgb: [188, 206, 192]
     },
     {
       source: BaseURL + 'n-nft1/TAROT-JY.png',
-      title: 'TAROT',
+      title: 'Tarot',
       des: 'Future premonitions.',
       background: '#E3B5D5',
       rgb: [227, 181, 213]
@@ -62,11 +62,11 @@ export default {
       title: 'Zodiac',
       des: 'Western or Eastern, your soul your destiny.',
       background: '#f7f7dc',
-      rgb: [225, 223, 200]
+      rgb: [244, 225, 144]
     },
     {
       source: BaseURL + 'n-nft1/QUEEN-JY.png',
-      title: 'DRAG',
+      title: 'Drag',
       des: 'Gender is not construct.',
       background: '#e0b1be',
       rgb: [229, 207, 211]
@@ -80,7 +80,7 @@ export default {
     },
     {
       source: BaseURL + 'n-nft1/DYNASTY.png',
-      title: 'DYNASTY',
+      title: 'Dynasty',
       des: 'Different cultures, same love.',
       background: '#e5d2ba',
       rgb: [203, 230, 227]
@@ -117,57 +117,57 @@ export default {
       {
         image: BaseURL + 'nft1/RAINBOW.png',
         title: 'Rainbow',
-        background: '#CDC3C4',
+        background: '#FFB3B3',
         lock: false,
         target: BaseURL + 'rainbow.gif'
       },
       {
         image: BaseURL + 'nft1/CYBERPUNK.png',
         title: 'Cyberpunk',
-        background: '#B8C8D1',
+        background: '#FC5AAD',
         rgb: [184, 200, 209],
         lock: true
       },
       {
         image: BaseURL + 'nft1/SUPERSTAR.png',
         title: 'Super Star',
-        background: '#E5CFD3',
+        background: '#FFBE00',
         lock: true
       },
       {
         image: BaseURL + 'nft1/DYNASTY.png',
         title: 'Dynasty',
-        background: '#E5EAC3',
+        background: '#FF0000',
         lock: true
       },
       {
         image: BaseURL + 'nft1/ZODIAC-JY.png',
         title: 'Zodiac',
-        background: '#E3B5D5',
+        background: '#E14B32',
         lock: true
       },
       {
         image: BaseURL + 'nft1/TAROT-JY.png',
         title: 'Tarot',
-        background: '#E1DFC8',
+        background: '#F2B0F0',
         lock: true
       },
       {
         image: BaseURL + 'nft1/SUIT-JY.png',
         title: 'Suit',
-        background: '#BCCEC0',
+        background: '#CEC4FD',
         lock: true
       },
       {
         image: BaseURL + 'nft1/QUEEN-JY.png',
         title: 'Drag',
-        background: '#E7CFE3',
+        background: '#FC716C',
         lock: true
       },
       {
         image: BaseURL + 'nft1/BINARYOPPOSITION-JY.png',
         title: 'Yin-Yang',
-        background: '#CBE6E3',
+        background: '#FF713B',
         lock: true
       },
     ]
@@ -233,8 +233,8 @@ export default {
     h2Title2: `In Theirsverse, our artists embrace the
     fluidity of gender, you can express your 
     identities in new ways!`,
-    desc2: `We want to find a universal way to connect and communicate
-    with a new generation.`,
+    desc2: `We want to find a universal way to connect 
+    and communicate with a new generation.`,
     desc3: ``
   }
 }
