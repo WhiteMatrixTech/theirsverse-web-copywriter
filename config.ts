@@ -81,7 +81,7 @@ export default {
     {
       source: BaseURL + 'n-nft1/DYNASTY.png',
       title: 'Dynasty',
-      des: 'Different cultures, same love.',
+      des: 'Different cultures, same love',
       background: '#e5d2ba',
       rgb: [203, 230, 227]
     },
