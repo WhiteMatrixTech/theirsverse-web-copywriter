@@ -32,49 +32,49 @@ export default {
     {
       source: BaseURL + 'n-nft1/RAINBOW.png',
       title: 'Rainbow',
-      des: 'Love is love.',
+      des: 'Love is love',
       background: '#f9ccca',
       rgb: [205, 195, 196]
     },
     {
       source: BaseURL + 'n-nft1/CYBERPUNK.png',
       title: 'Cyberpunk',
-      des: 'Lowlife and high-tech.',
+      des: 'Lowlife and high-tech',
       background: '#c1d5e8',
       rgb: [231, 207, 227]
     },
     {
       source: BaseURL + 'n-nft1/SUIT-JY.png',
       title: 'Suit',
-      des: 'We all have two souls.',
+      des: 'We all have two souls',
       background: '#c1d6c4',
       rgb: [188, 206, 192]
     },
     {
       source: BaseURL + 'n-nft1/TAROT-JY.png',
       title: 'Tarot',
-      des: 'Future premonitions.',
+      des: 'Future premonitions',
       background: '#E3B5D5',
       rgb: [227, 181, 213]
     },
     {
       source: BaseURL + 'n-nft1/ZODIAC-JY.png',
       title: 'Zodiac',
-      des: 'Western or Eastern, your soul your destiny.',
+      des: 'Western or Eastern, your soul your destiny',
       background: '#f7f7dc',
       rgb: [244, 225, 144]
     },
     {
       source: BaseURL + 'n-nft1/QUEEN-JY.png',
       title: 'Drag',
-      des: 'Gender is not construct.',
+      des: 'Gender is not construct',
       background: '#e0b1be',
       rgb: [229, 207, 211]
     },
     {
       source: BaseURL + 'n-nft1/BINARYOPPOSITION-JY.png',
       title: 'Yin-Yang',
-      des: 'The world is not just black or white.',
+      des: 'The world is not just black or white',
       background: '#ccd5f6',
       rgb: [184, 200, 209]
     },
