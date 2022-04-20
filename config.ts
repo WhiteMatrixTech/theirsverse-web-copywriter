@@ -86,6 +86,56 @@ export default {
       rgb: [203, 230, 227]
     },
   ],
+  // box
+  nft4: [
+    {
+      image: BaseURL + '4nft/Rainbow.png',
+      title: 'Rainbow',
+      lock: false,
+      target: BaseURL + 'rainbow.gif'
+    },
+    {
+      image: BaseURL + '4nft/Cyberpunk.png',
+      title: 'Cyberpunk',
+      rgb: [184, 200, 209],
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/SuperStar.png',
+      title: 'Super Star',
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/Dynasty.png',
+      title: 'Dynasty',
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/Zodiac-JY.png',
+      title: 'Zodiac',
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/TAROT-JY.png',
+      title: 'Tarot',
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/SUIT-JY.png',
+      title: 'Suit',
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/QUEEN-JY.png',
+      title: 'Drag',
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/Ying-Yang-JY.png',
+      title: 'Yin-Yang',
+      lock: true
+    },
+  ],
   nft1: {
     describe: {
       days: {
