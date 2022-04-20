@@ -24,63 +24,63 @@ export default {
   nft2: [
     {
       source: BaseURL + 'n-nft1/SUPERSTAR.png',
-      title: 'Super Star',
+      title: 'SUPER STAR',
       des: 'Shining your light!',
       background: '#b18dbd',
       rgb: [229, 234, 195],
     },
     {
       source: BaseURL + 'n-nft1/RAINBOW.png',
-      title: 'Rainbow',
+      title: 'RAINBOW',
       des: 'Love is love',
       background: '#f9ccca',
       rgb: [205, 195, 196]
     },
     {
       source: BaseURL + 'n-nft1/CYBERPUNK.png',
-      title: 'Cyberpunk',
+      title: 'CYBERPUNK',
       des: 'Lowlife and high-tech',
       background: '#c1d5e8',
       rgb: [231, 207, 227]
     },
     {
       source: BaseURL + 'n-nft1/SUIT-JY.png',
-      title: 'Suit',
+      title: 'SUIT',
       des: 'We all have two souls',
       background: '#c1d6c4',
       rgb: [188, 206, 192]
     },
     {
       source: BaseURL + 'n-nft1/TAROT-JY.png',
-      title: 'Tarot',
+      title: 'TAROT',
       des: 'Future premonitions',
       background: '#E3B5D5',
       rgb: [227, 181, 213]
     },
     {
       source: BaseURL + 'n-nft1/ZODIAC-JY.png',
-      title: 'Zodiac',
+      title: 'ZODIAC',
       des: 'Western or Eastern, your soul your destiny',
       background: '#f7f7dc',
       rgb: [244, 225, 144]
     },
     {
       source: BaseURL + 'n-nft1/QUEEN-JY.png',
-      title: 'Drag',
+      title: 'DRAG',
       des: 'Gender is not construct',
       background: '#e0b1be',
       rgb: [229, 207, 211]
     },
     {
       source: BaseURL + 'n-nft1/BINARYOPPOSITION-JY.png',
-      title: 'Yin-Yang',
+      title: 'YIN-YANG',
       des: 'The world is not just black or white',
       background: '#ccd5f6',
       rgb: [184, 200, 209]
     },
     {
       source: BaseURL + 'n-nft1/DYNASTY.png',
-      title: 'Dynasty',
+      title: 'DYNASTY',
       des: 'Different cultures, same love',
       background: '#e5d2ba',
       rgb: [203, 230, 227]
