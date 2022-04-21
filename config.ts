@@ -25,7 +25,7 @@ export default {
     {
       source: BaseURL + 'n-nft1/SUPERSTAR.png',
       title: 'SUPER STAR',
-      des: 'Shining your light',
+      des: 'Shining your light!',
       background: '#b18dbd',
       rgb: [229, 234, 195],
     },
@@ -61,7 +61,7 @@ export default {
       source: BaseURL + 'n-nft1/ZODIAC-JY.png',
       title: 'ZODIAC',
       des: 'Western or Eastern, your soul your destiny',
-      background: '#F4E190',
+      background: '#f7f7dc',
       rgb: [244, 225, 144]
     },
     {
@@ -95,12 +95,6 @@ export default {
       target: BaseURL + 'rainbow.gif'
     },
     {
-      image: BaseURL + '4nft/Cyberpunk.png',
-      title: 'Cyberpunk',
-      rgb: [184, 200, 209],
-      lock: true
-    },
-    {
       image: BaseURL + '4nft/SuperStar.png',
       title: 'Super Star',
       lock: true
@@ -108,6 +102,27 @@ export default {
     {
       image: BaseURL + '4nft/Dynasty.png',
       title: 'Dynasty',
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/QUEEN-JY.png',
+      title: 'Drag',
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/Cyberpunk.png',
+      title: 'Cyberpunk',
+      rgb: [184, 200, 209],
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/Ying-Yang-JY.png',
+      title: 'Yin-Yang',
+      lock: true
+    },
+    {
+      image: BaseURL + '4nft/SUIT-JY.png',
+      title: 'Suit',
       lock: true
     },
     {
@@ -119,22 +134,7 @@ export default {
       image: BaseURL + '4nft/TAROT-JY.png',
       title: 'Tarot',
       lock: true
-    },
-    {
-      image: BaseURL + '4nft/SUIT-JY.png',
-      title: 'Suit',
-      lock: true
-    },
-    {
-      image: BaseURL + '4nft/QUEEN-JY.png',
-      title: 'Drag',
-      lock: true
-    },
-    {
-      image: BaseURL + '4nft/Ying-Yang-JY.png',
-      title: 'Yin-Yang',
-      lock: true
-    },
+    }
   ],
   nft1: {
     describe: {
@@ -269,7 +269,8 @@ export default {
     leftDesc3: `We as humans all think of ourselves as
     different, and the Theirsverse community
     believes that being imperfect is perfect.`,
-    rightDesc1: `Our goal is to celebrate what makes us unique, and more importantly, what unites us.`,
+    rightDesc1: `Our goal is to celebrate what makes us unique, and more
+    importantly, what unites us.`,
     rightDesc2: `That's why we want to center ourselves around the idea of “theirs”
     a universal term that unifies all creators and their unique stories.`,
     rightDesc3: `We Are Theirs!`
