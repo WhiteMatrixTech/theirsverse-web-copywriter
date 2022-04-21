@@ -25,7 +25,7 @@ export default {
     {
       source: BaseURL + 'n-nft1/SUPERSTAR.png',
       title: 'SUPER STAR',
-      des: 'Shining your light!',
+      des: 'Shining your light',
       background: '#b18dbd',
       rgb: [229, 234, 195],
     },
@@ -61,7 +61,7 @@ export default {
       source: BaseURL + 'n-nft1/ZODIAC-JY.png',
       title: 'ZODIAC',
       des: 'Western or Eastern, your soul your destiny',
-      background: '#f7f7dc',
+      background: '#F4E190',
       rgb: [244, 225, 144]
     },
     {
