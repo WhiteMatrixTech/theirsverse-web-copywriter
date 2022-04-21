@@ -12,7 +12,7 @@ export default {
   future: {
     title: 'ABOUT FUTURE',
     line1: 'Theirsverse strives to be an open community',
-    line2: 'for building a multi-ethnic,social co-creation for art, music, games, and fashion.',
+    line2: 'for building a multi-ethnic, social co-creation for art, music, games, and fashion.',
     line3: '',
     part1: 'Each project will donate a percentage of profits to organizations that uplift minority at risk programs;',
     part2: 'Owners of Theirsverse will have exclusive rewards and updates;',
