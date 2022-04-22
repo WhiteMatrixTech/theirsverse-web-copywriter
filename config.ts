@@ -97,12 +97,14 @@ export default {
     {
       image: BaseURL + '4nft/SuperStar.png',
       title: 'Super Star',
-      lock: true
+      lock: false,
+      target: BaseURL + 'starGif/SuperStar.gif'
     },
     {
       image: BaseURL + '4nft/Dynasty.png',
       title: 'Dynasty',
-      lock: true
+      lock: false,
+      target: BaseURL + 'starGif/Dynasty.gif'
     },
     {
       image: BaseURL + '4nft/QUEEN-JY.png',
@@ -113,7 +115,8 @@ export default {
       image: BaseURL + '4nft/Cyberpunk.png',
       title: 'Cyberpunk',
       rgb: [184, 200, 209],
-      lock: true
+      lock: false,
+      target: BaseURL + 'starGif/cyberpunk.gif'
     },
     {
       image: BaseURL + '4nft/Ying-Yang-JY.png',
