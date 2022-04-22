@@ -226,12 +226,12 @@ export default {
     ]
   },
   socials: [
-    //     {
-    //       title: 'gmail',
-    //       img: `${BaseURL}footer/mail.svg`,
-    //       header_image: `${BaseURL}social_header/mail.png`
-    //       link: '/'
-    //     },
+    {
+      title: 'gmail',
+      img: `${BaseURL}footer/mail.svg`,
+      header_image: `${BaseURL}social_header/mail.png`,
+      link: 'http://mail.google.com/?fs=1&to=BD@Theirsverse.com&tf=cm'
+    },
     {
       title: 'instagram',
       img: `${BaseURL}footer/ins.svg`,
