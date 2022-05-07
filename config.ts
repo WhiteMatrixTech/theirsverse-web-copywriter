@@ -2,6 +2,7 @@ export const BaseURL = 'https://d6bsd1popru6t.cloudfront.net/'
 export default {
   title: 'Theirsverse',
   music: BaseURL + 'music.mp3',
+  playIcon: BaseURL + 'playIcon.png',
   roadMap: {
     title: 'ROADMAP',
     roadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-web.png',
