@@ -5,6 +5,8 @@ export default {
   playIcon: BaseURL + 'play-icon.png',
   pauseIcon: BaseURL + 'pause-icon.png',
   playBackground: BaseURL + 'play-bg.png',
+  melody: BaseURL + 'melody.gif',
+  lyric: BaseURL + 'starmap.lrc',
   roadMap: {
     title: 'ROADMAP',
     roadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-web.png',
