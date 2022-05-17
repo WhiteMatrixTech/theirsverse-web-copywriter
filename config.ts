@@ -11,6 +11,7 @@ export default {
     minPlay: BaseURL + 'music-source/minPlay.png',
     closePlay: BaseURL + 'music-source/closePlay.png',
     pausePlay: BaseURL + 'music-source/pause.png',
+    music: BaseURL + 'music-source/music.png'
   },
   roadMap: {
     title: 'ROADMAP',
