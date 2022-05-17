@@ -7,6 +7,11 @@ export default {
   playBackground: BaseURL + 'play-bg.png',
   melody: BaseURL + 'melody.gif',
   lyric: BaseURL + 'starMap.lrc',
+  musicSource: {
+    minPlay: BaseURL + 'music-source/minPlay.png',
+    closePlay: BaseURL + 'music-source/closePlay.png',
+    pausePlay: BaseURL + 'music-source/pause.png',
+  },
   roadMap: {
     title: 'ROADMAP',
     roadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-web.png',
