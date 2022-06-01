@@ -476,7 +476,7 @@ export default {
   },
   artistsV2: {
     p1: 'Theirsverse',
-    p2: ' art director ENLI said that gender is not a binary construct, gender is a self-exploration. From April 2021, ENLI and 16 artists from around the world devoted their own soul and creativity into the creation of the blueprint of the Theirsverse project, and seek the universal language that connects everyone through exchanges and collisions between artists. Theirsverse will co-create a community that embraces diverse beauty standards and the redefining of identities in web3.'
+    p2: ' art director Hyphen said that gender is not a binary construct, gender is a self-exploration. From April 2021, Hyphen and 16 artists from around the world devoted their own soul and creativity into the creation of the blueprint of the Theirsverse project, and seek the universal language that connects everyone through exchanges and collisions between artists. Theirsverse will co-create a community that embraces diverse beauty standards and the redefining of identities in web3.'
   },
   faq: [
     {
