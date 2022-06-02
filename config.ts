@@ -544,7 +544,7 @@ export default {
       expand: false
     },
     {
-      q: ' How to be our OG?',
+      q: 'How to be our OG?',
       a: 'Join our Discord and find information.',
       expand: false
     },
@@ -554,7 +554,7 @@ export default {
       expand: false
     },
     {
-      q: ' I am an artist, how do I join the Theirsverse artist team?',
+      q: 'I am an artist, how do I join the Theirsverse artist team?',
       a: 'Please send us your details to:\nTheirsverse@gmail.com.',
       expand: false
     }
