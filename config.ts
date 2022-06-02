@@ -125,7 +125,7 @@ export default {
       background: 'rgba(154, 15, 11, 0.2)',
       rgb: [205, 195, 196],
       left: '65%',
-      top: '58%',
+      top: '45%',
       // width: '370px',
       bg: '#f9e0dd'
     },
@@ -158,7 +158,7 @@ export default {
       des: 'Every culture has their own different spirit that is worthy of acknowledging and learning from. It is these differences that make us love the world and want to feel the collision of each culture. The more you understand the civilization of others, the more humbly you can accept differences.',
       background: 'rgba(141, 38, 38, 0.2)',
       rgb: [203, 230, 227],
-      left: '20%',
+      left: '15%',
       top: '10%',
       bg: '#8c1717'
     },
@@ -178,7 +178,7 @@ export default {
       des: 'Humans’ understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a determination of gender. Human beings can be more tolerant and accepting by understanding the diversity of human nature. Just like the name Theirsverse, we are not only he/him/his or she/her/hers, we are also they/them/theirs. We can embrace, we can include, and we can connect.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [188, 206, 192],
-      left: '18%',
+      left: '12%',
       top: '3%',
       bg: '#cec4fd'
     },
@@ -208,7 +208,7 @@ export default {
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [244, 225, 144],
-      left: '15%',
+      left: '12%',
       top: '25%',
       bg: '#f1e29a'
     },
