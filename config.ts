@@ -24,9 +24,10 @@ export default {
   roadMapV2: {
     bg: `${BaseURL}roadMapV2/BG01.png`,
     stage: [`${BaseURL}roadMapV2/bgICON/stage1.png`, `${BaseURL}roadMapV2/bgICON/stage2.png`, `${BaseURL}roadMapV2/bgICON/stage3.png`, `${BaseURL}roadMapV2/bgICON/stage4.png`, `${BaseURL}roadMapV2/bgICON/stage5.png`],
-    introduce: [`${BaseURL}roadMapV2/roadmap-part1.mp4`, `${BaseURL}roadMapV2/roadmap-part2.mp4`, `${BaseURL}roadMapV2/roadmap-part3.mp4`, `${BaseURL}roadMapV2/roadmap-part4.mp4`]
+    introduce: [`${BaseURL}roadMapV2/roadmap-part1.mp4`, `${BaseURL}roadMapV2/roadmap-part2.mp4`, `${BaseURL}roadMapV2/roadmap-part3.mp4`, `${BaseURL}roadMapV2/roadmap-part4.mp4`, `${BaseURL}roadMapV2/roadmap-part5.mp4`],
+    arrow: `${BaseURL}roadMapV2/arrow.png`
   },
-  logo: `${BaseURL}logo.png`,
+  logo: `${BaseURL}logo.svg`,
   future: {
     title: 'ABOUT FUTURE',
     line1: 'Theirsverse strives to be an open community',
@@ -565,5 +566,5 @@ export default {
   footerImg: `${BaseURL}footer/footer-web.png`,
   footerImgMobile: `${BaseURL}footer/footer-mobile.png`,
   conditions: `${BaseURL}Theirsverse_Conditions.pdf`,
-  conditionsText: 'Theirsverse Terms & Conditions'
+  conditionsText: 'Theirsverse Terms & Conditions',
 }
