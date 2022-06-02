@@ -45,7 +45,7 @@ export default {
     line2: 'After 4-6 months, Theirsverse will airdrop a new series of NFTs, and holders will have priority mint rights;',
     line3: 'You can enjoy the distribution of physical trendy toys, and also enter the private discord channel;',
     line4: 'Priority to participate in online and offline events;',
-    line5: 'Voting on future partners and join the recruitment of the artist team. Our community is everything to us, we believe in the power of community',
+    line5: 'Voting on future partners and join the recruitment of the artist team. Our community is everything to us, we believe in the power of community.',
     part3: 'NFT holders will have priority for art exhibitions and concerts;',
     part4: 'Artists who contributed to our NFT collective will have the right to vote on the selection for limited edition NFTs;',
     part5: 'We will support artists from all over the world in art, visual media, and music through Theirsverse project.',
@@ -132,7 +132,7 @@ export default {
 
     {
       source: BaseURL + 'star2/CYBERPUNK.mp4',
-      title: 'Cyberpunk',
+      title: 'CYBERPUNK',
       des: 'Combining the long-standing punk culture with a sense of futuristic metal, cyberpunk has become a new aesthetic and a new combination. It also indicates that human beings will live with machines and technology in the future, which is a normal state. The future is not in the future, the future is already here.',
       background: '',
       rgb: [231, 207, 227],
@@ -142,8 +142,8 @@ export default {
     },
     {
       source: BaseURL + 'star2/SUPERSTAR.mp4',
-      title: 'Superstar',
-      des: 'Everyone should be their own superstar, and Theirsverse is willing to create their own stage for the superstars. Here, everyone is their own boss, and everyone shines in their own way.',
+      title: 'SUPERSTAR',
+      des: 'Everyone should be his or her or their own superstar, and Theirsverse wants to create a stage for the superstars. Here, everyone is his or her or their own boss, and everyone shines in his or her or their own way.',
       background: 'rgba(245, 165, 72, 0.2)',
       rgb: [229, 234, 195],
       left: '68%',
@@ -154,7 +154,7 @@ export default {
 
     {
       source: BaseURL + 'star2/DYNASTY.mp4',
-      title: 'Dynasty',
+      title: 'DYNASTY',
       des: 'Every culture has their own different spirit that is worthy of acknowledging and learning from. It is these differences that make us love the world and want to feel the collision of each culture. The more you understand the civilization of others, the more humbly you can accept differences.',
       background: 'rgba(141, 38, 38, 0.2)',
       rgb: [203, 230, 227],
@@ -174,8 +174,8 @@ export default {
     },
     {
       source: BaseURL + 'star2/SUIT-JY.png',
-      title: 'Suit',
-      des: 'With the changes of the times, intersex souls, non-sexism, neutrality, and gender fluidity, human beings understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a Gender determinants, human beings can be more tolerant and accepting, understand the diversity of human nature, reflect on how we are educated by inherent concepts, and thus have doubts and fears beyond our cognition, as the name of Theirsverse, we are not only Male he or female she, it can also be hugging each other and speaking the world language.hh',
+      title: 'SUIT',
+      des: 'Humans’ understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a determination of gender. Human beings can be more tolerant and accepting by understanding the diversity of human nature. Just like the name Theirsverse, we are not only he/him/his or she/her/hers, we are also they/them/theirs. We can embrace, we can include, and we can connect.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [188, 206, 192],
       left: '18%',
@@ -194,8 +194,8 @@ export default {
     },
     {
       source: BaseURL + 'star2/TAROT-JY.png',
-      title: 'Tarot',
-      des: 'People use occult power to premonish the future, and the future actually unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
+      title: 'TAROT',
+      des: 'People use occult power to premonish the future, and the future unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [227, 181, 213],
       left: '68%',
@@ -204,7 +204,7 @@ export default {
     },
     {
       source: BaseURL + 'star2/ZODIAC-JY.png',
-      title: 'Zodiac',
+      title: 'ZODIAC',
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [244, 225, 144],
@@ -502,7 +502,8 @@ export default {
     p3: `We are Theirsverse.`,
 
     p4: 'Theirsverse ',
-    p5: ` is a web3 brand that has a wide commercial network in the entertainment industry. Our roadmap stretches across NFT, music labels, film production, physical trendy goods, virtual singer entertainment, and the social metaverse. Our vision is to form a brand culture for the younger generation by integrating trends, entertainment, art, and technology.Theirsverse NFT is a membership card that allows holders to enjoy the rights to participate in our events, forums, and physical products.`
+    p5: ` is a web3 brand that has a wide commercial network in the entertainment industry. Our roadmap stretches across NFT, music labels, film production, physical trendy goods, virtual singer entertainment, and the social metaverse. Our vision is to form a brand culture for the younger generation by integrating trends, entertainment, art, and technology. 
+    Theirsverse NFT is a membership card that allows holders to enjoy the rights to participate in our events, forums, and physical products.`
   },
   artists: {
     h2Title1: `The Theirsverse eye look was created
@@ -524,37 +525,37 @@ export default {
   faq: [
     {
       q: 'How to get the whitelist?',
-      a: 'Enter Discord to view our Allowlist points ',
+      a: 'Enter Discord to view our Allowlist points. ',
       expand: true
     },
     {
       q: 'Whitelist benefits?',
-      a: 'Priority mint, the price will be announced shortly',
+      a: 'Priority mint, the price will be announced shortly.',
       expand: false
     },
     {
       q: ' Mint channel:',
-      a: 'Official website, launch date will be announced shortly ',
+      a: 'Official website, launch date will be announced shortly. ',
       expand: false
     },
     {
       q: 'What is the total amount of NFT?',
-      a: 'To be announced soon ',
+      a: 'To be announced soon. ',
       expand: false
     },
     {
       q: ' How to be our OG?',
-      a: 'Join our Discord and find information',
+      a: 'Join our Discord and find information.',
       expand: false
     },
     {
       q: 'We want to cooperate with Theirsverse, how to contact?',
-      a: 'BD@Theirsverse.com ',
+      a: 'BD@Theirsverse.com. ',
       expand: false
     },
     {
       q: ' I am an artist, how do I join the Theirsverse artist team?',
-      a: 'Please send us your details to:\nTheirsverse@gmail.com',
+      a: 'Please send us your details to:\nTheirsverse@gmail.com.',
       expand: false
     }
   ],
