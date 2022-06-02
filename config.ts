@@ -182,7 +182,7 @@ export default {
       bg: '#cec4fd'
     },
     {
-      source: BaseURL + 'n-nft1/QUEEN-JY.png',
+      source: BaseURL + 'star2/QUEEN-JY.png',
       title: 'DRAG',
       des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
       background: '#e0b1be',
@@ -192,7 +192,7 @@ export default {
       bg: '#d4afba'
     },
     {
-      source: BaseURL + 'n-nft1/TAROT-JY.png',
+      source: BaseURL + 'star2/TAROT-JY.png',
       title: 'Tarot',
       des: 'People use occult power to premonish the future, and the future actually unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
       background: '#E3B5D5',
@@ -202,7 +202,7 @@ export default {
       bg: '#dcb7d3'
     },
     {
-      source: BaseURL + 'n-nft1/ZODIAC-JY.png',
+      source: BaseURL + 'star2/ZODIAC-JY.png',
       title: 'Zodiac',
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       background: '#F4E190',
