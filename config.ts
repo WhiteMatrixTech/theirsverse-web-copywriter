@@ -24,8 +24,9 @@ export default {
   roadMapV2: {
     bg: `${BaseURL}roadMapV2/BG01.png`,
     stage: [`${BaseURL}roadMapV2/bgICON/stage1.png`, `${BaseURL}roadMapV2/bgICON/stage2.png`, `${BaseURL}roadMapV2/bgICON/stage3.png`, `${BaseURL}roadMapV2/bgICON/stage4.png`, `${BaseURL}roadMapV2/bgICON/stage5.png`],
-    introduce: [`${BaseURL}roadMapV2/roadmap-part1.mp4`]
+    introduce: [`${BaseURL}roadMapV2/roadmap-part1.mp4`, `${BaseURL}roadMapV2/roadmap-part2.mp4`, `${BaseURL}roadMapV2/roadmap-part3.mp4`, `${BaseURL}roadMapV2/roadmap-part4.mp4`]
   },
+  logo: `${BaseURL}logo.png`,
   future: {
     title: 'ABOUT FUTURE',
     line1: 'Theirsverse strives to be an open community',
@@ -118,67 +119,95 @@ export default {
   firstVideo: `${BaseURL}Homepage-BG.mp4`,
   nftV2: [
     {
-      source: BaseURL + 'star2/SUPERSTART.png',
+      source: BaseURL + 'star2/SUPERSTAR.mp4',
       title: 'Superstar',
       des: 'Everyone should be their own superstar, and Theirsverse is willing to create their own stage for the superstars. Here, everyone is their own boss, and everyone shines in their own way.',
       background: '#b18dbd',
       rgb: [229, 234, 195],
+      left: '68%',
+      top: '5%',
+      color: '#333333',
+      bg: '#ffff71'
     },
     {
       source: BaseURL + 'star2/RAINBOW.mp4',
       title: 'RAINBOW',
       des: 'Every color on the rainbow should be respected.Red(Life) = life\nOrange(Healing) = Healing\nYellow(Sunlight) = sunlight\nGreen(Nature) = Nature\nIndigo(Harmony) = Harmony\nPurple(Spirit) = Spirit',
       background: '#f9ccca',
-      rgb: [205, 195, 196]
+      rgb: [205, 195, 196],
+      left: '65%',
+      top: '28%',
+      // width: '370px',
+      bg: '#f9e0dd'
     },
     {
       source: BaseURL + 'star2/CYBERPUNK.mp4',
       title: 'Cyberpunk',
       des: 'Combining the long-standing punk culture with a sense of futuristic metal, cyberpunk has become a new aesthetic and a new combination. It also indicates that human beings will live with machines and technology in the future, which is a normal state. The future is not in the future, the future is already here.',
       background: '#c1d5e8',
-      rgb: [231, 207, 227]
+      rgb: [231, 207, 227],
+      left: '70%',
+      top: '3%'
     },
     {
       source: BaseURL + 'star2/SUIT-JY.png',
       title: 'Suit',
       des: 'With the changes of the times, intersex souls, non-sexism, neutrality, and gender fluidity, human beings understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a Gender determinants, human beings can be more tolerant and accepting, understand the diversity of human nature, reflect on how we are educated by inherent concepts, and thus have doubts and fears beyond our cognition, as the name of Theirsverse, we are not only Male he or female she, it can also be hugging each other and speaking the world language.hh',
       background: '#c1d6c4',
-      rgb: [188, 206, 192]
+      rgb: [188, 206, 192],
+      left: '18%',
+      top: '3%',
+      bg: '#cec4fd'
     },
     {
-      source: BaseURL + 'star2/TAROT-JY.png',
+      source: BaseURL + 'n-nft1/TAROT-JY.png',
       title: 'Tarot',
       des: 'People use occult power to premonish the future, and the future actually unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
       background: '#E3B5D5',
-      rgb: [227, 181, 213]
+      rgb: [227, 181, 213],
+      left: '68%',
+      top: '8%',
+      bg: '#fda4fd'
     },
     {
-      source: BaseURL + 'star2/ZODIAC-JY.png',
+      source: BaseURL + 'n-nft1/ZODIAC-JY.png',
       title: 'Zodiac',
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       background: '#F4E190',
-      rgb: [244, 225, 144]
+      rgb: [244, 225, 144],
+      left: '15%',
+      top: '25%',
+      bg: '#52392a'
     },
     {
-      source: BaseURL + 'star2/QUEEN-JY.png',
+      source: BaseURL + 'n-nft1/QUEEN-JY.png',
       title: 'DRAG',
       des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
       background: '#e0b1be',
-      rgb: [229, 207, 211]
+      rgb: [229, 207, 211],
+      top: '10%',
+      left: '58%',
+      bg: '#f25e5d'
     },
     {
       source: BaseURL + 'star2/YINYANG.mp4',
       title: 'YIN-YANG',
       des: 'When the term decentralization keeps appearing around us, centralized aesthetics, unified values, and the opposition of black and white, YIN and YANG is still prominent. For demons, it is the angels who are really cruel, and who should be the main judge of the opposition between angels and demons? Only by bravely breaking the opposition and accepting it can we bring a better future to mankind.',
       background: '#ccd5f6',
-      rgb: [184, 200, 209]
+      rgb: [184, 200, 209],
+      top: '8%',
+      left: '60%',
+      bg: '#ff8e00'
     },
     {
       source: BaseURL + 'star2/DYNASTY.mp4',
       title: 'Dynasty',
       des: 'Every culture has their own different spirit that is worthy of acknowledging and learning from. It is these differences that make us love the world and want to feel the collision of each culture. The more you understand the civilization of others, the more humbly you can accept differences.',
       background: '#e5d2ba',
-      rgb: [203, 230, 227]
+      rgb: [203, 230, 227],
+      left: '20%',
+      top: '10%',
+      bg: '#8c1717'
     },
   ],
   // box
@@ -202,9 +231,10 @@ export default {
       target: BaseURL + 'starGif/Dynasty.gif'
     },
     {
-      image: BaseURL + '4nft/QUEEN-JY.png',
-      title: 'Drag',
-      lock: true
+      image: BaseURL + '4nft/Suit.png',
+      title: 'Suit',
+      lock: false,
+      target: BaseURL + 'starGif/suit.gif'
     },
     {
       image: BaseURL + '4nft/Cyberpunk.png',
@@ -220,10 +250,9 @@ export default {
       target: BaseURL + 'starGif/Yin-Yang.gif'
     },
     {
-      image: BaseURL + '4nft/Suit.png',
-      title: 'Suit',
-      lock: false,
-      target: BaseURL + 'starGif/suit.gif'
+      image: BaseURL + '4nft/QUEEN-JY.png',
+      title: 'Drag',
+      lock: true
     },
     {
       image: BaseURL + '4nft/Zodiac-JY.png',
@@ -303,7 +332,7 @@ export default {
         lock: true
       },
       {
-        image: BaseURL + 'nft1/SUIT-JY.png',
+        image: BaseURL + 'nft1/SUIT.png',
         title: 'Suit',
         background: '#CEC4FD',
         lock: true
@@ -315,7 +344,7 @@ export default {
         lock: true
       },
       {
-        image: BaseURL + 'nft1/BINARYOPPOSITION-JY.png',
+        image: BaseURL + 'nft1/BINARYOPPOSITION.png',
         title: 'Yin-Yang',
         background: '#FF713B',
         lock: true
@@ -365,13 +394,17 @@ export default {
       title: 'gmail',
       img: `${BaseURL}footer/mail.png`,
       header_image: `${BaseURL}social_header/mail.png`,
+      width: '36',
+      height: '28.99',
       link: 'http://mail.google.com/?fs=1&to=BD@Theirsverse.com&tf=cm'
     },
     {
       title: 'instagram',
       img: `${BaseURL}footer/ins.png`,
       header_image: `${BaseURL}social_header/ins.png`,
-      link: 'https://instagram.com/theirsverse?utm_medium=copy_link'
+      link: 'https://instagram.com/theirsverse?utm_medium=copy_link',
+      width: '36',
+      height: '36',
     },
     //     {
     //       title: 'tiktok',
@@ -383,7 +416,9 @@ export default {
       title: 'mirror',
       img: `${BaseURL}footer/mirror.png`,
       header_image: `${BaseURL}social_header/mirror.png`,
-      link: 'https://mirror.xyz/0xafd0a1002c0c90AecE4BAc54A1d67d9412053Fb2'
+      link: 'https://mirror.xyz/0xafd0a1002c0c90AecE4BAc54A1d67d9412053Fb2',
+      width: '28.8',
+      height: '36',
     },
     //     {
     //       title: 'opensea',
@@ -395,13 +430,17 @@ export default {
       title: 'twitter',
       img: `${BaseURL}footer/twitter.png`,
       header_image: `${BaseURL}social_header/twitter.png`,
-      link: 'https://twitter.com/Theirsverse?s=20&t=-khzvp71PYDNJKi72f-e2g'
+      link: 'https://twitter.com/Theirsverse?s=20&t=-khzvp71PYDNJKi72f-e2g',
+      width: '36.43',
+      height: '29.6',
     },
     {
       title: 'discord',
       img: `${BaseURL}footer/discord.png`,
       header_image: `${BaseURL}social_header/twitter.png`,
-      link: 'https://discord.com/invite/KswvM25rqM'
+      link: 'https://discord.com/invite/KswvM25rqM',
+      width: '37.5',
+      height: '37.5',
     },
   ],
   countDown: {
@@ -455,11 +494,12 @@ export default {
     a universal term that unifies all creators and their unique stories.`,
     rightDesc3: `We Are Theirs!`,
     p1: 'Theirsverse ',
-    p2: `is founded by a group of young artists from diverse cultural backgrounds and gender identities. The name “Theirsverse“ is compounded of “Theirs” and “universe”, implying that the universe is not simply "he him his" as men or "she her hers" as women, the word "theirs" represents a web3 community that can open up their heart to new identities and multiculturalism. That's what Theirsverse believes in - We humans are more similar than we are different. `,
+    p2: ` is founded by a group of young artists from diverse cultural backgrounds and gender identities. The name “Theirsverse” is compounded of “Theirs” and “universe”, implying that the universe is not simply "he him his" or "she her hers". 
+    The word "theirs" represents a community that can open up their heart to new identities and multiculturalism. That's what Theirsverse believes in - We humans are more similar than we are different. `,
     p3: `We are Theirsverse.`,
 
     p4: 'Theirsverse ',
-    p5: `is also a web3 brand that has a wide commercial network in the entire entertainment industry. Our roadmap stretches across NFT, music labels, film production, physical trendy goods, virtual singer, and the social metaverse. Our vision is to form a brand culture for the younger generation by integrating trends, entertainment, art, and technology.`
+    p5: ` is a web3 brand that has a wide commercial network in the entertainment industry. Our roadmap stretches across NFT, music labels, film production, physical trendy goods, virtual singer entertainment, and the social metaverse. Our vision is to form a brand culture for the younger generation by integrating trends, entertainment, art, and technology.Theirsverse NFT is a membership card that allows holders to enjoy the rights to participate in our events, forums, and physical products.`
   },
   artists: {
     h2Title1: `The Theirsverse eye look was created
