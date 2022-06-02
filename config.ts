@@ -22,8 +22,8 @@ export default {
     line3: 'NFT is our invitation ticket. Art toy, virtual singer, and a whole metaverse are on the way.'
   },
   roadMapV2: {
-    bg: `${BaseURL}roadMapV2/roadmap-bg-mobile.png`,
-    mobileBg: `${BaseURL}roadMapV2/BG01.png`,
+    bg: `${BaseURL}roadMapV2/BG01.png`,
+    mobileBg: `${BaseURL}roadMapV2/roadmap-bg-mobile.png`,
     stage: [`${BaseURL}roadMapV2/bgICON/stage1.png`, `${BaseURL}roadMapV2/bgICON/stage2.png`, `${BaseURL}roadMapV2/bgICON/stage3.png`, `${BaseURL}roadMapV2/bgICON/stage4.png`, `${BaseURL}roadMapV2/bgICON/stage5.png`],
     introduce: [`${BaseURL}roadMapV2/roadmap-part1.mp4`, `${BaseURL}roadMapV2/roadmap-part2.mp4`, `${BaseURL}roadMapV2/roadmap-part3.mp4`, `${BaseURL}roadMapV2/roadmap-part4.mp4`, `${BaseURL}roadMapV2/roadmap-part5.mp4`],
     arrow: `${BaseURL}roadMapV2/arrow.png`
