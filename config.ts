@@ -119,17 +119,6 @@ export default {
   firstVideo: `${BaseURL}Homepage-BG.mp4`,
   nftV2: [
     {
-      source: BaseURL + 'star2/SUPERSTAR.mp4',
-      title: 'Superstar',
-      des: 'Everyone should be their own superstar, and Theirsverse is willing to create their own stage for the superstars. Here, everyone is their own boss, and everyone shines in their own way.',
-      background: '#b18dbd',
-      rgb: [229, 234, 195],
-      left: '68%',
-      top: '5%',
-      color: '#333333',
-      bg: '#ffff71'
-    },
-    {
       source: BaseURL + 'star2/RAINBOW.mp4',
       title: 'RAINBOW',
       des: 'Every color on the rainbow should be respected.Red(Life) = life\nOrange(Healing) = Healing\nYellow(Sunlight) = sunlight\nGreen(Nature) = Nature\nIndigo(Harmony) = Harmony\nPurple(Spirit) = Spirit',
@@ -140,6 +129,7 @@ export default {
       // width: '370px',
       bg: '#f9e0dd'
     },
+
     {
       source: BaseURL + 'star2/CYBERPUNK.mp4',
       title: 'Cyberpunk',
@@ -150,44 +140,26 @@ export default {
       top: '3%'
     },
     {
-      source: BaseURL + 'star2/SUIT-JY.png',
-      title: 'Suit',
-      des: 'With the changes of the times, intersex souls, non-sexism, neutrality, and gender fluidity, human beings understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a Gender determinants, human beings can be more tolerant and accepting, understand the diversity of human nature, reflect on how we are educated by inherent concepts, and thus have doubts and fears beyond our cognition, as the name of Theirsverse, we are not only Male he or female she, it can also be hugging each other and speaking the world language.hh',
-      background: '#c1d6c4',
-      rgb: [188, 206, 192],
-      left: '18%',
-      top: '3%',
-      bg: '#cec4fd'
-    },
-    {
-      source: BaseURL + 'n-nft1/TAROT-JY.png',
-      title: 'Tarot',
-      des: 'People use occult power to premonish the future, and the future actually unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
-      background: '#E3B5D5',
-      rgb: [227, 181, 213],
+      source: BaseURL + 'star2/SUPERSTAR.mp4',
+      title: 'Superstar',
+      des: 'Everyone should be their own superstar, and Theirsverse is willing to create their own stage for the superstars. Here, everyone is their own boss, and everyone shines in their own way.',
+      background: '#b18dbd',
+      rgb: [229, 234, 195],
       left: '68%',
-      top: '8%',
-      bg: '#fda4fd'
+      top: '5%',
+      color: '#333333',
+      bg: '#ffff71'
     },
+
     {
-      source: BaseURL + 'n-nft1/ZODIAC-JY.png',
-      title: 'Zodiac',
-      des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
-      background: '#F4E190',
-      rgb: [244, 225, 144],
-      left: '15%',
-      top: '25%',
-      bg: '#52392a'
-    },
-    {
-      source: BaseURL + 'n-nft1/QUEEN-JY.png',
-      title: 'DRAG',
-      des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
-      background: '#e0b1be',
-      rgb: [229, 207, 211],
+      source: BaseURL + 'star2/DYNASTY.mp4',
+      title: 'Dynasty',
+      des: 'Every culture has their own different spirit that is worthy of acknowledging and learning from. It is these differences that make us love the world and want to feel the collision of each culture. The more you understand the civilization of others, the more humbly you can accept differences.',
+      background: '#e5d2ba',
+      rgb: [203, 230, 227],
+      left: '20%',
       top: '10%',
-      left: '58%',
-      bg: '#f25e5d'
+      bg: '#8c1717'
     },
     {
       source: BaseURL + 'star2/YINYANG.mp4',
@@ -200,14 +172,44 @@ export default {
       bg: '#ff8e00'
     },
     {
-      source: BaseURL + 'star2/DYNASTY.mp4',
-      title: 'Dynasty',
-      des: 'Every culture has their own different spirit that is worthy of acknowledging and learning from. It is these differences that make us love the world and want to feel the collision of each culture. The more you understand the civilization of others, the more humbly you can accept differences.',
-      background: '#e5d2ba',
-      rgb: [203, 230, 227],
-      left: '20%',
+      source: BaseURL + 'star2/SUIT-JY.png',
+      title: 'Suit',
+      des: 'With the changes of the times, intersex souls, non-sexism, neutrality, and gender fluidity, human beings understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a Gender determinants, human beings can be more tolerant and accepting, understand the diversity of human nature, reflect on how we are educated by inherent concepts, and thus have doubts and fears beyond our cognition, as the name of Theirsverse, we are not only Male he or female she, it can also be hugging each other and speaking the world language.hh',
+      background: '#c1d6c4',
+      rgb: [188, 206, 192],
+      left: '18%',
+      top: '3%',
+      bg: '#cec4fd'
+    },
+    {
+      source: BaseURL + 'n-nft1/QUEEN-JY.png',
+      title: 'DRAG',
+      des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
+      background: '#e0b1be',
+      rgb: [229, 207, 211],
       top: '10%',
-      bg: '#8c1717'
+      left: '58%',
+      bg: '#d4afba'
+    },
+    {
+      source: BaseURL + 'n-nft1/TAROT-JY.png',
+      title: 'Tarot',
+      des: 'People use occult power to premonish the future, and the future actually unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
+      background: '#E3B5D5',
+      rgb: [227, 181, 213],
+      left: '68%',
+      top: '8%',
+      bg: '#dcb7d3'
+    },
+    {
+      source: BaseURL + 'n-nft1/ZODIAC-JY.png',
+      title: 'Zodiac',
+      des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
+      background: '#F4E190',
+      rgb: [244, 225, 144],
+      left: '15%',
+      top: '25%',
+      bg: '#f1e29a'
     },
   ],
   // box
