@@ -45,12 +45,12 @@ export default {
   futureV2: {
     title: `Holder's Benefits: `,
     line1: 'NFT is our entry ticket, various rewards will be based on time staked:',
-    line2: 'Early access to NFT airdrops',
-    line3: 'Early access to Theirsverse physical products such as: art toys, cosmetics, clothing and dolls',
-    line4: 'Early access to art exhibitions, parties, and exclusive events',
-    line5: 'Early access to our virtual singer concerts and music NFT airdrops',
-    part6: 'Early introduction and access to artworks by young artists',
-    part7: 'The ability to co-build our Theirsverse Youth Forum and Social Metaverse',
+    line2: 'Early access to NFT airdrops.',
+    line3: 'Early access to Theirsverse physical products such as: art toys, cosmetics, clothing and dolls.',
+    line4: 'Early access to art exhibitions, parties, and exclusive events.',
+    line5: 'Early access to our virtual singer concerts and music NFT airdrops.',
+    part6: 'Early introduction and access to artworks by young artists.',
+    part7: 'The ability to co-build our Theirsverse Youth Forum and Social Metaverse.',
     part8: 'We will support artists from all over the world in art, visual media, and music through Theirsverse project.',
     futureImg: 'https://d6bsd1popru6t.cloudfront.net/aboutfuture.jpg'
   },
@@ -482,7 +482,7 @@ export default {
     believes that being imperfect is perfect.`,
     rightDesc1: `Our goal is to celebrate what makes us unique, and more
     importantly, what unites us.`,
-    rightDesc2: `That's why we want to center ourselves around the idea of “theirs”
+    rightDesc2: `That's why we want to center ourselves around the idea of "theirs"
     a universal term that unifies all creators and their unique stories.`,
     rightDesc3: `We Are Theirs!`
   },
@@ -497,11 +497,11 @@ export default {
     believes that being imperfect is perfect.`,
     rightDesc1: `Our goal is to celebrate what makes us unique, and more
     importantly, what unites us.`,
-    rightDesc2: `That's why we want to center ourselves around the idea of “theirs”
+    rightDesc2: `That's why we want to center ourselves around the idea of "theirs"
     a universal term that unifies all creators and their unique stories.`,
     rightDesc3: `We Are Theirs!`,
     p1: 'Theirsverse ',
-    p2: ` is founded by a group of young artists from diverse cultural backgrounds and gender identities. The name “Theirsverse” is compounded of “Theirs” and “universe”, implying that the universe is not simply "he him his" or "she her hers". 
+    p2: ` is founded by a group of young artists from diverse cultural backgrounds and gender identities. The name "Theirsverse" is compounded of "Theirs" and "universe", implying that the universe is not simply "he him his" or "she her hers". 
     The word "theirs" represents a community that can open up their heart to new identities and multiculturalism. That's what Theirsverse believes in - We humans are more similar than we are different. `,
     p3: `We are Theirsverse.`,
 
