@@ -193,7 +193,7 @@ export default {
       rgb: [229, 207, 211],
       top: '10%',
       left: '58%',
-      bg: '#d4afba'
+      bg: '#d26b6c'
     },
     {
       source: BaseURL + 'star2/TAROT-JY.png',
