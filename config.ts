@@ -3,6 +3,7 @@ export default {
   title: 'Theirsverse',
   music: BaseURL + 'music.mp3',
   playIcon: BaseURL + 'play-icon.png',
+  videoPlayIcon: BaseURL + 'music-source/play.png',
   pauseIcon: BaseURL + 'pause-icon.png',
   playBackground: BaseURL + 'play-bg.png',
   melody: BaseURL + 'melody.gif',
@@ -44,13 +45,13 @@ export default {
   futureV2: {
     title: `Holder's Benefits: `,
     line1: 'NFT is our entry ticket, various rewards will be based on time staked:',
-    line2: 'Theirsverse NFT holders will have priority mint rights for any future purchased NFTs.',
-    line3: 'NFT Holders will also have priority when purchasing Theirsverse unique art toys.',
-    line4: 'NFT Holders will have unique opportunities to participate in our worldwide events.',
-    line5: 'Theirsverse NFT Holders will have priority access to the Theirsverse Youth Forum around the world.',
-    part3: 'NFT holders will have priority for art exhibitions and concerts;',
-    part4: 'Artists who contributed to our NFT collective will have the right to vote on the selection for limited edition NFTs;',
-    part5: 'We will support artists from all over the world in art, visual media, and music through Theirsverse project.',
+    line2: 'Early access to NFT airdrops',
+    line3: 'Early access to Theirsverse physical products such as: art toys, cosmetics, clothing and dolls',
+    line4: 'Early access to art exhibitions, parties, and exclusive events',
+    line5: 'Early access to our virtual singer concerts and music NFT airdrops',
+    part6: 'Early introduction and access to artworks by young artists',
+    part7: 'The ability to co-build our Theirsverse Youth Forum and Social Metaverse',
+    part8: 'We will support artists from all over the world in art, visual media, and music through Theirsverse project.',
     futureImg: 'https://d6bsd1popru6t.cloudfront.net/aboutfuture.jpg'
   },
   nft2: [
@@ -97,7 +98,7 @@ export default {
       rgb: [244, 225, 144]
     },
     {
-      source: BaseURL + 'n-nft1/QUEEN-JY.png',
+      source: BaseURL + 'n-nft1/QUEEN.png',
       title: 'DRAG',
       des: 'Gender is not construct',
       background: '#e0b1be',
@@ -185,7 +186,7 @@ export default {
       bg: '#cec4fd'
     },
     {
-      source: BaseURL + 'star2/QUEEN-JY.png',
+      source: BaseURL + 'star2/QUEEN.jpg',
       title: 'DRAG',
       des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
       background: 'rgba(162, 162, 162, 0.2)',
@@ -255,9 +256,10 @@ export default {
       target: BaseURL + 'starGif/Yin-Yang.gif'
     },
     {
-      image: BaseURL + '4nft/QUEEN-JY.png',
+      image: BaseURL + '4nft/QUEEN.png',
       title: 'Drag',
-      lock: true
+      lock: false,
+      target: BaseURL + 'starGif/QUEEN.gif'
     },
     {
       image: BaseURL + '4nft/Zodiac-JY.png',
@@ -343,10 +345,10 @@ export default {
         lock: true
       },
       {
-        image: BaseURL + 'nft1/QUEEN-JY.png',
+        image: BaseURL + 'nft1/QUEEN.png',
         title: 'Drag',
         background: '#FC716C',
-        lock: true
+        lock: false,
       },
       {
         image: BaseURL + 'nft1/BINARYOPPOSITION.png',
@@ -504,8 +506,7 @@ export default {
     p3: `We are Theirsverse.`,
 
     p4: 'Theirsverse ',
-    p5: ` is a web3 brand that has a wide commercial network in the entertainment industry. Our roadmap stretches across NFT, music labels, film production, physical trendy goods, virtual singer entertainment, and the social metaverse. Our vision is to form a brand culture for the younger generation by integrating trends, entertainment, art, and technology. 
-    Theirsverse NFT is a membership card that allows holders to enjoy the rights to participate in our events, forums, and physical products.`
+    p5: ` has created a brand connecting Web 2 and Web 3. From NFT artworks to fashion toys and DTC beauty brands, Theirsverse would like to invite creators globally to co-create our brand together. We are founding a global young artists’ fund to promote more artists into the booming NFT world. We love the passionate artists across the world that share their knowledge and insights in the Theirsverse community. Theirsverse is an invitation to unclock your creative future!`
   },
   artists: {
     h2Title1: `The Theirsverse eye look was created
