@@ -279,7 +279,7 @@ export default {
         unit: ' days, '
       },
       artists: {
-        number: 11,
+        number: 16,
         unit: ' artists  created  '
       },
       collections: {
