@@ -181,8 +181,8 @@ export default {
       des: 'Humans’ understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a determination of gender. Human beings can be more tolerant and accepting by understanding the diversity of human nature. Just like the name Theirsverse, we are not only he/him/his or she/her/hers, we are also they/them/theirs. We can embrace, we can include, and we can connect.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [188, 206, 192],
-      left: '12%',
-      top: '3%',
+      left: '8%',
+      top: '60%',
       bg: '#cec4fd'
     },
     {
