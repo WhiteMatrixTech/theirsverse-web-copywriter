@@ -186,7 +186,7 @@ export default {
       bg: '#cec4fd'
     },
     {
-      source: BaseURL + 'star2/QUEEN.jpg',
+      source: BaseURL + 'star2/QUEEN.mp4',
       title: 'DRAG',
       des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
       background: 'rgba(162, 162, 162, 0.2)',
@@ -196,7 +196,7 @@ export default {
       bg: '#d26b6c'
     },
     {
-      source: BaseURL + 'star2/TAROT-JY.png',
+      source: BaseURL + 'star2/TAROT.mp4',
       title: 'TAROT',
       des: 'People use occult power to premonish the future, and the future unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
       background: 'rgba(162, 162, 162, 0.2)',
@@ -206,7 +206,7 @@ export default {
       bg: '#dcb7d3'
     },
     {
-      source: BaseURL + 'star2/ZODIAC-JY.png',
+      source: BaseURL + 'star2/ZODIAC.mp4',
       title: 'ZODIAC',
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       background: 'rgba(162, 162, 162, 0.2)',
@@ -262,14 +262,16 @@ export default {
       target: BaseURL + 'starGif/QUEEN.gif'
     },
     {
-      image: BaseURL + '4nft/Zodiac-JY.png',
+      image: BaseURL + '4nft/Zodiac.png',
       title: 'Zodiac',
-      lock: true
+      lock: false,
+      target: BaseURL + 'starGif/Zodiac.gif'
     },
     {
-      image: BaseURL + '4nft/TAROT-JY.png',
+      image: BaseURL + '4nft/Tarot.png',
       title: 'Tarot',
-      lock: true
+      lock: false,
+      target: BaseURL + 'starGif/Tarot.gif'
     }
   ],
   nft1: {
@@ -327,13 +329,13 @@ export default {
         lock: true
       },
       {
-        image: BaseURL + 'nft1/ZODIAC-JY.png',
+        image: BaseURL + 'nft1/ZODIAC.png',
         title: 'Zodiac',
         background: '#E14B32',
         lock: true
       },
       {
-        image: BaseURL + 'nft1/TAROT-JY.png',
+        image: BaseURL + 'nft1/TAROT.png',
         title: 'Tarot',
         background: '#F2B0F0',
         lock: true
