@@ -1,5 +1,12 @@
 export const BaseURL = 'https://d6bsd1popru6t.cloudfront.net/'
 export default {
+  ethIcon: BaseURL + 'constracts/eth.png',
+  ethBanner: BaseURL + 'constracts/banner',
+  mint: {
+    footer: ['How to Install and Use Metamask on Google Chrome?', 'How to buy ETH and transfer it to a web3 wallet?'],
+    des: 'Theirsverse has created a brand connecting Web 2 and Web 3. From NFT artworks to fashion toys and DTC beauty brands, Theirsverse would like to invite creators globally to co-create our brand together. We are founding a global young artists’ fund to promote more artists into the booming NFT world. We love the passionate artists across the world that share their knowledge and insights in the Theirsverse community. Theirsverse is an invitation to unclock your creative future! ',
+    title: 'Time: 11:00 AM ~ 2:00 PM  Jan. 1st 2022 UTC+8'
+  },
   title: 'Theirsverse',
   music: BaseURL + 'music.mp3',
   playIcon: BaseURL + 'play-icon.png',
@@ -466,8 +473,8 @@ export default {
       link: 'https://twitter.com/Theirsverse?s=20&t=-khzvp71PYDNJKi72f-e2g'
     },
     banner: `${BaseURL}count-down/banner.png`,
-    releaseDate: 'June.25 2020',
-    releaseDateStamp: '1656086400000', // 2022.06.25
+    releaseDate: '2022.6.29 22:55 EDT',
+    releaseDateStamp: '1656432000000', // 2022.06.25
     items: '10.0K',
     owners: '-',
     floor: '-',
