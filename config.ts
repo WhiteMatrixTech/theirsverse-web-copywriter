@@ -463,7 +463,7 @@ export default {
     twitter: {
       title: 'discord',
       img: `${BaseURL}count-down/twitter.png`,
-      header_image: `${BaseURL}social_header/twitter.png`,
+      header_image: `${BaseURL}social_header/Twitter.svg`,
       link: 'https://twitter.com/Theirsverse?s=20&t=-khzvp71PYDNJKi72f-e2g'
     },
     discord: {
