@@ -16,21 +16,21 @@ export default {
     mintTime: {
       gold: {
         title: 'Gold Member Mint',
-        time: `2022.6.27  22:55  EDT ～ 2022.6.28 22:55  EDT`,
-        price: '1.5ETH',
+        time: `July 10, 22:55:55 ～ July 11, 22:55:55  EDT`,
+        price: 'Free',
         startTime: '2022/07/27 22:55:00',
         endTime: '2022/07/28 22:55:00'
       },
       white: {
         title: 'Whitelist Mint',
-        time: `2022.6.28  22:55  EDT ～ 2022.6.29 22:55  EDT`,
+        time: `July 11, 22:55:55 ～ July 12, 22:55:55  EDT`,
         price: 'Free/0.05/0.1/0.15ETH',
         startTime: '2022/07/28 22:55:00',
         endTime: '2022/07/29 22:55:00',
       },
       public: {
         title: 'Public Mint',
-        time: `2022.6.29  22:55  EDT ～ 2022.6.30 22:55  EDT`,
+        time: `July 12, 22:55:55 ～ July 13, 22:55:55  EDT`,
         price: '0.18ETH',
         startTime: '2022/07/29 22:55:00',
         endTime: '2022/07/30 22:55:00',
