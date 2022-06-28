@@ -508,7 +508,7 @@ export default {
     },
     banner: `${BaseURL}count-down/banner.png`,
     releaseDate: 'July 12, 22:55:55 EDT',
-    releaseDateStamp: '1656432000000', // 2022.06.25
+    releaseDateStamp: '1657637755000', // 2022.06.25
     items: '5.5K',
     owners: '-',
     floor: '-',
