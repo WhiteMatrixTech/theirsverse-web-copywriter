@@ -37,7 +37,7 @@ export default {
       },
       reveal: {
         title: 'Reveal',
-        time: `July 16,22:55:55  EDT`,
+        time: `July 16, 22:55:55  EDT`,
       }
     }
   },
@@ -507,7 +507,7 @@ export default {
       link: 'https://twitter.com/Theirsverse?s=20&t=-khzvp71PYDNJKi72f-e2g'
     },
     banner: `${BaseURL}count-down/banner.png`,
-    releaseDate: '2022.6.29 22:55:55 EDT',
+    releaseDate: 'July 12, 22:55:55 EDT',
     releaseDateStamp: '1656432000000', // 2022.06.25
     items: '5.5K',
     owners: '-',
