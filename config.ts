@@ -34,6 +34,10 @@ export default {
         price: '0.18ETH',
         startTime: '2022/07/29 22:55:00',
         endTime: '2022/07/30 22:55:00',
+      },
+      reveal: {
+        title: 'Reveal',
+        time: `July 16,22:55:55  EDT`,
       }
     }
   },
