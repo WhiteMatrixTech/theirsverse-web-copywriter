@@ -3,6 +3,13 @@ export default {
   ethIcon: BaseURL + 'constracts/eth.png',
   ethBanner: BaseURL + 'constracts/banner',
   mint: {
+    installIntro: BaseURL + 'constracts/installMetaMask.pdf',
+    buyIntro: BaseURL + 'constracts/howToBuy.pdf',
+    cover: BaseURL + 'constracts/whiteCover.png',
+    whiteList: BaseURL + 'constracts/whitelist.json',
+    pendingGif: BaseURL + 'constracts/mintPending.gif',
+    cat: BaseURL + 'constracts/noWhite.png',
+    bear: BaseURL + 'constracts/isWhite.png',
     footer: ['How to Install and Use Metamask on Google Chrome?', 'How to buy ETH and transfer it to a web3 wallet?'],
     des: 'Theirsverse has created a brand connecting Web 2 and Web 3. From NFT artworks to fashion toys and DTC beauty brands, Theirsverse would like to invite creators globally to co-create our brand together. We are founding a global young artists’ fund to promote more artists into the booming NFT world. We love the passionate artists across the world that share their knowledge and insights in the Theirsverse community. Theirsverse is an invitation to unclock your creative future! ',
     title: 'Time: 11:00 AM ~ 2:00 PM  Jan. 1st 2022 UTC+8',
@@ -11,22 +18,22 @@ export default {
         title: 'Gold Member Mint',
         time: `2022.6.27  22:55  EDT ～ 2022.6.28 22:55  EDT`,
         price: '1.5ETH',
-        startTime: '2022/06/27 22:55:00',
-        endTime: '2022/06/28 22:55:00'
+        startTime: '2022/07/27 22:55:00',
+        endTime: '2022/07/28 22:55:00'
       },
       white: {
         title: 'Whitelist Mint',
         time: `2022.6.28  22:55  EDT ～ 2022.6.29 22:55  EDT`,
         price: 'Free/0.05/0.1/0.15ETH',
-        startTime: '2022/06/28 22:55:00',
-        endTime: '2022/06/29 22:55:00',
+        startTime: '2022/07/28 22:55:00',
+        endTime: '2022/07/29 22:55:00',
       },
       public: {
         title: 'Public Mint',
         time: `2022.6.29  22:55  EDT ～ 2022.6.30 22:55  EDT`,
         price: '0.18ETH',
-        startTime: '2022/06/29 22:55:00',
-        endTime: '2022/06/30 22:55:00',
+        startTime: '2022/07/29 22:55:00',
+        endTime: '2022/07/30 22:55:00',
       }
     }
   },
