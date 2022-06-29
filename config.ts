@@ -18,8 +18,8 @@ export default {
         title: 'Gold Member Mint',
         time: `July 10, 22:55:55 ～ July 11, 22:55:55  EDT`,
         price: 'Free',
-        startTime: '2022/07/27 22:55:00',
-        endTime: '2022/07/28 22:55:00'
+        startTime: '2022/06/28 22:55:00',
+        endTime: '2022/06/29 22:55:00'
       },
       white: {
         title: 'Whitelist Mint',
