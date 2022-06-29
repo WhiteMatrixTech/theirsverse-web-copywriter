@@ -3,13 +3,15 @@ export default {
   ethIcon: BaseURL + 'constracts/eth.png',
   ethBanner: BaseURL + 'constracts/banner',
   mint: {
+    linkName: 'MINT', // 链接文案
+    noPoap: 'no poap', // 没有Poap提示文案
     installIntro: BaseURL + 'constracts/installMetaMask.pdf',
     buyIntro: BaseURL + 'constracts/howToBuy.pdf',
     cover: BaseURL + 'constracts/whiteCover.png',
     whiteList: BaseURL + 'constracts/whitelist.json',
     pendingGif: BaseURL + 'constracts/mintPending.gif',
-    cat: BaseURL + 'constracts/noWhite.png',
-    bear: BaseURL + 'constracts/isWhite.png',
+    cat: BaseURL + 'constracts/noWhite.gif',
+    bear: BaseURL + 'constracts/isWhite.gif',
     footer: ['How to Install and Use Metamask on Google Chrome?', 'How to buy ETH and transfer it to a web3 wallet?'],
     des: 'Theirsverse has created a brand connecting Web 2 and Web 3. From NFT artworks to fashion toys and DTC beauty brands, Theirsverse would like to invite creators globally to co-create our brand together. We are founding a global young artists’ fund to promote more artists into the booming NFT world. We love the passionate artists across the world that share their knowledge and insights in the Theirsverse community. Theirsverse is an invitation to unclock your creative future! ',
     title: 'Time: 11:00 AM ~ 2:00 PM  Jan. 1st 2022 UTC+8',
