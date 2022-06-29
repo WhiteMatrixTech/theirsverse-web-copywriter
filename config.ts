@@ -5,6 +5,9 @@ export default {
   mint: {
     linkName: 'MINT', // 链接文案
     noPoap: 'no poap', // 没有Poap提示文案
+    notWhite: 'Not  Whitelisted',
+    switchTip: 'please switch',
+    confinementPrice: '0.0005',
     installIntro: BaseURL + 'constracts/installMetaMask.pdf',
     buyIntro: BaseURL + 'constracts/howToBuy.pdf',
     cover: BaseURL + 'constracts/whiteCover.png',
