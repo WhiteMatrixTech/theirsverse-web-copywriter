@@ -8,6 +8,16 @@ export default {
     notWhite: 'Not  Whitelisted',
     switchTip: 'please switch',
     confinementPrice: '0.0005',
+    viewOpensea: `https://testnets.opensea.io/account?tab=collected&search[sortBy]=CREATED_DATE`,
+    modal: {
+      notWhite: [
+        `Your address is not on the whitelist, but you can mint 1 Theirsverse
+        NFT during the Public Mint.`,
+        `For more info, join our DC channel.`],
+      isWhite: [`Your address is on the whitelist for the 1st batch.`,
+        `You can mint`,
+        `Theirsverse NFTs at most.`]
+    },
     installIntro: BaseURL + 'constracts/installMetaMask.pdf',
     buyIntro: BaseURL + 'constracts/howToBuy.pdf',
     cover: BaseURL + 'constracts/whiteCover.png',
