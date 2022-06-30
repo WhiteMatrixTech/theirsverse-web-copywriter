@@ -11,10 +11,10 @@ export default {
     viewOpensea: `https://testnets.opensea.io/account?tab=collected&search[sortBy]=CREATED_DATE`,
     modal: {
       notWhite: [
-        `Your address is not on the whitelist, but you can mint 1 Theirsverse
+        `You are not whitelisted, you can mint 1 Theirsverse
         NFT during the Public Mint.`,
         `For more info, join our DC channel.`],
-      isWhite: [`Your address is on the whitelist for the 1st batch.`,
+      isWhite: [`Congratulations！ You are whitelisted for the 1st batch.`,
         `You can mint`,
         `Theirsverse NFTs at most.`]
     },
