@@ -33,22 +33,22 @@ export default {
         title: 'Gold Member Mint',
         time: `July 10, 22:55:55 ～ July 11, 22:55:55  EDT`,
         price: 'Free',
-        startTime: '2022/07/12 22:55:55',
-        endTime: '2022/07/13 22:55:55'
+        startTime: '2022/07/12 22:55:55 EDT',
+        endTime: '2022/07/13 22:55:55 EDT'
       },
       white: {
         title: 'Whitelist Mint',
         time: `July 11, 22:55:55 ～ July 12, 22:55:55  EDT`,
         price: 'Free/0.05/0.1/0.15ETH',
-        startTime: '2022/07/13 22:55:55',
-        endTime: '2022/07/14 22:55:55',
+        startTime: '2022/07/13 22:55:55 EDT',
+        endTime: '2022/07/14 22:55:55 EDT',
       },
       public: {
         title: 'Public Mint',
         time: `July 12, 22:55:55 ～ July 13, 22:55:55  EDT`,
         price: '0.18ETH',
-        startTime: '2022/07/14 22:55:55',
-        endTime: '2022/07/15 22:55:55',
+        startTime: '2022/07/14 22:55:55 EDT',
+        endTime: '2022/07/15 22:55:55 EDT',
       },
       reveal: {
         title: 'Reveal',
@@ -523,7 +523,7 @@ export default {
     },
     banner: `${BaseURL}count-down/banner.png`,
     releaseDate: 'July 12, 22:55:55 EDT',
-    releaseDateStamp: '1657637755000', // 2022.06.25
+    releaseDateStamp: '1657680955000',
     items: '5.5K',
     owners: '-',
     floor: '-',
