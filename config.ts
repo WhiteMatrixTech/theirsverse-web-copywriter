@@ -2,8 +2,10 @@ export const BaseURL = 'https://d6bsd1popru6t.cloudfront.net/'
 export default {
   ethIcon: BaseURL + 'constracts/eth.png',
   ethBanner: BaseURL + 'constracts/banner',
+  vector: BaseURL + 'Vector.png',
   mint: {
-    linkName: 'MINT', // 链接文案
+    linkName: 'VERIFY WHITELIST', // 链接文案
+    lowLinkName: 'Verify Whitelist',
     noPoap: 'no poap', // 没有Poap提示文案
     notWhite: 'Not  Whitelisted',
     switchTip: 'please switch',
@@ -32,25 +34,29 @@ export default {
       gold: {
         title: 'Gold Member Mint',
         time: `July 10, 22:55:55 ～ July 11, 22:55:55  EDT`,
+        start: `July 10, 22:55:55 EDT`,
         price: 'Free',
-        startTime: '2022/07/12 22:55:55 EDT',
-        endTime: '2022/07/13 22:55:55 EDT'
+        startTime: '2022/07/10 22:55:55 EDT',
+        endTime: '2022/07/11 22:55:55 EDT'
       },
       white: {
         title: 'Whitelist Mint',
         time: `July 11, 22:55:55 ～ July 12, 22:55:55  EDT`,
         price: 'Free/0.05/0.1/0.15ETH',
-        startTime: '2022/07/13 22:55:55 EDT',
-        endTime: '2022/07/14 22:55:55 EDT',
+        start: `July 11, 22:55:55 EDT`,
+        startTime: '2022/07/11 22:55:55 EDT',
+        endTime: '2022/07/12 22:55:55 EDT',
       },
       public: {
         title: 'Public Mint',
         time: `July 12, 22:55:55 ～ July 13, 22:55:55  EDT`,
         price: '0.18ETH',
-        startTime: '2022/07/14 22:55:55 EDT',
-        endTime: '2022/07/15 22:55:55 EDT',
+        start: `July 12, 22:55:55 EDT`,
+        startTime: '2022/07/12 22:55:55 EDT',
+        endTime: '2022/07/13 22:55:55 EDT',
       },
       reveal: {
+        start: `July 16, 22:55:55 EDT`,
         title: 'Reveal',
         time: `July 16, 22:55:55  EDT`,
       }
