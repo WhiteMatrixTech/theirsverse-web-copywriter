@@ -35,7 +35,7 @@ export default {
         title: 'Gold Member Mint',
         time: `July 10, 22:55:55 ～ July 11, 22:55:55  EDT`,
         start: `July 10, 22:55:55 EDT`,
-        price: 'Free',
+        price: '',
         startTime: '2022/07/10 22:55:55 EDT',
         endTime: '2022/07/11 22:55:55 EDT'
       },
