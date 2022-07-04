@@ -23,7 +23,7 @@ export default {
     installIntro: BaseURL + 'constracts/installMetaMask.pdf',
     buyIntro: BaseURL + 'constracts/howToBuy.pdf',
     cover: BaseURL + 'constracts/whiteCover.png',
-    whiteList: BaseURL + 'constracts/whitelist.json',
+    whiteList: [BaseURL + 'constracts/whitelist.json', BaseURL + 'constracts/whitelist2.json'],
     pendingGif: BaseURL + 'constracts/mintPending.gif',
     cat: BaseURL + 'constracts/noWhite.gif',
     bear: BaseURL + 'constracts/isWhite.gif',
