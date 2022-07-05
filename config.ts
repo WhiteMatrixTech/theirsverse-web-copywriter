@@ -336,6 +336,455 @@ export default {
       target: BaseURL + 'starGif/Tarot.gif'
     }
   ],
+
+  nftDetail: [
+    {
+      title: 'Rainbow',
+      des: 'Every color on the rainbow should be respected.Red(Life) = life\nOrange(Healing) = Healing\nYellow(Sunlight) = sunlight\nGreen(Nature) = Nature\nIndigo(Harmony) = Harmony\nPurple(Spirit) = Spirit',
+      itemList: [
+        {
+          name: 'Red',
+          image: BaseURL + 'detailImage/Rainbow/Red.png'
+        },
+        {
+          name: 'Orange',
+          image: BaseURL + 'detailImage/Rainbow/Orange.png'
+        },
+        {
+          name: 'Yellow',
+          image: BaseURL + 'detailImage/Rainbow/Yellow.png'
+        },
+        {
+          name: 'Green',
+          image: BaseURL + 'detailImage/Rainbow/Green.png'
+        },
+        {
+          name: 'Blue',
+          image: BaseURL + 'detailImage/Rainbow/Blue.png'
+        },
+        {
+          name: 'Purple',
+          image: BaseURL + 'detailImage/Rainbow/Purple.png'
+        },
+        {
+          name: 'Rainbow-Alice Boy',
+          image: BaseURL + 'detailImage/Rainbow-Alice+Boy/Rainbow-Alice+Boy.png'
+        }
+      ]
+    },
+    {
+      title: 'Super Star',
+      des: 'Everyone should be his or her or their own superstar, and Theirsverse wants to create a stage for the superstars. Here, everyone is his or her or their own boss, and everyone shines in his or her or their own way.',
+      itemList: [
+        {
+          name: 'Bear',
+          image: BaseURL + 'detailImage/SuperStar/Bear.png'
+        },
+        {
+          name: 'Camilia',
+          image: BaseURL + 'detailImage/SuperStar/Camilia.png'
+        },
+        {
+          name: 'Cassie',
+          image: BaseURL + 'detailImage/SuperStar/Cassie.png'
+        },
+        {
+          name: 'Cat Girl',
+          image: BaseURL + 'detailImage/SuperStar/Cat+Girl.png'
+        },
+        {
+          name: 'Chocolate Girl',
+          image: BaseURL + 'detailImage/SuperStar/Chocolate+Girl.png'
+        },
+        {
+          name: 'Claude Cahun',
+          image: BaseURL + 'detailImage/SuperStar/Claude+Cahun.png'
+        },
+        {
+          name: 'Elvis Presley',
+          image: BaseURL + 'detailImage/SuperStar/Elvis+Presley.png'
+        },
+        {
+          name: 'Freddie Mercury',
+          image: BaseURL + 'detailImage/SuperStar/Freddie+Mercury.png'
+        },
+        {
+          name: 'Ghoul Jackson',
+          image: BaseURL + 'detailImage/SuperStar/Ghoul+Jackson.png'
+        },
+        {
+          name: 'Harry',
+          image: BaseURL + 'detailImage/SuperStar/Harry.png'
+        },
+        {
+          name: 'Jules',
+          image: BaseURL + 'detailImage/SuperStar/Jules.png'
+        },
+        {
+          name: 'Lady Gaga',
+          image: BaseURL + 'detailImage/SuperStar/Lady+Gaga.png'
+        },
+        {
+          name: 'Latino',
+          image: BaseURL + 'detailImage/SuperStar/Latino.png'
+        },
+        {
+          name: 'Madonna',
+          image: BaseURL + 'detailImage/SuperStar/Madonna.png'
+        },
+        {
+          name: 'Matrix',
+          image: BaseURL + 'detailImage/SuperStar/Matrix.png'
+        },
+        {
+          name: 'Movie Star',
+          image: BaseURL + 'detailImage/SuperStar/Movie+Star.png'
+        },
+        {
+          name: 'Olivine',
+          image: BaseURL + 'detailImage/SuperStar/Olivine.png'
+        },
+        {
+          name: 'Palm Civet',
+          image: BaseURL + 'detailImage/SuperStar/Palm+Civet.png'
+        },
+        {
+          name: 'Pop Star',
+          image: BaseURL + 'detailImage/SuperStar/Pop+Star.png'
+        },
+        {
+          name: 'Rock Star',
+          image: BaseURL + 'detailImage/SuperStar/Rock+Star.png'
+        },
+        {
+          name: 'Rosemond',
+          image: BaseURL + 'detailImage/SuperStar/Rosemond.png'
+        },
+        {
+          name: 'Super star',
+          image: BaseURL + 'detailImage/SuperStar/Super+star.png'
+        },
+        {
+          name: 'Tiger',
+          image: BaseURL + 'detailImage/SuperStar/Tiger.png'
+        },
+        {
+          name: 'Tsuki',
+          image: BaseURL + 'detailImage/SuperStar/Tsuki.png'
+        },
+        {
+          name: 'Velvet Boy',
+          image: BaseURL + 'detailImage/SuperStar/Velvet+Boy.png'
+        }
+      ]
+    },
+    {
+      title: 'Dynasty',
+      des: 'Every culture has their own different spirit that is worthy of acknowledging and learning from. It is these differences that make us love the world and want to feel the collision of each culture. The more you understand the civilization of others, the more humbly you can accept differences.',
+      itemList: [
+        {
+          name: 'British Knight',
+          image: BaseURL + 'detailImage/Dynasty/British+Knight.png'
+        },
+        {
+          name: 'British Princess',
+          image: BaseURL + 'detailImage/Dynasty/British+Princess.png'
+        },
+        {
+          name: 'Cheongsam girl',
+          image: BaseURL + 'detailImage/Dynasty/Cheongsam+girl.png'
+        },
+        {
+          name: 'Egypt',
+          image: BaseURL + 'detailImage/Dynasty/Egypt.png'
+        },
+        {
+          name: 'German Gothic.png',
+          image: BaseURL + 'detailImage/Dynasty/German+Gothic.png'
+        },
+        {
+          name: 'India',
+          image: BaseURL + 'detailImage/Dynasty/India.png'
+        },
+        {
+          name: 'Italy',
+          image: BaseURL + 'detailImage/Dynasty/Italy.png'
+        },
+        {
+          name: 'Japan',
+          image: BaseURL + 'detailImage/Dynasty/Japan.png'
+        },
+        {
+          name: 'Korea',
+          image: BaseURL + 'detailImage/Dynasty/Korea.png'
+        },
+        {
+          name: 'Korean Girl',
+          image: BaseURL + 'detailImage/Dynasty/Korean+Girl.png'
+        },
+        {
+          name: 'Rococo',
+          image: BaseURL + 'detailImage/Dynasty/Rococo.png'
+        },
+        {
+          name: 'Sakuran',
+          image: BaseURL + 'detailImage/Dynasty/Sakuran.png'
+        },
+        {
+          name: 'The Qing Dynasty',
+          image: BaseURL + 'detailImage/Dynasty/The+Qing+Dynasty.png'
+        },
+        {
+          name: 'The Tang Dynasty',
+          image: BaseURL + 'detailImage/Dynasty/The+Tang+Dynasty.png'
+        },
+        {
+          name: 'USA-Statue of Liberty',
+          image: BaseURL + 'detailImage/Dynasty/USA-Statue+of+Liberty.png'
+        },
+
+      ]
+    },
+    {
+      title: 'Suit',
+      des: 'Humans’ understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a determination of gender. Human beings can be more tolerant and accepting by understanding the diversity of human nature. Just like the name Theirsverse, we are not only he/him/his or she/her/hers, we are also they/them/theirs. We can embrace, we can include, and we can connect.',
+      itemList: [
+        {
+          name: 'Dragon Suit',
+          image: BaseURL + 'detailImage/Suit/Dragon+Suit.png'
+        },
+        {
+          name: 'Pinkboy',
+          image: BaseURL + 'detailImage/Suit/Pinkboy.png'
+        },
+        {
+          name: 'Raven Suit',
+          image: BaseURL + 'detailImage/Suit/Raven+Suit.png'
+        },
+        {
+          name: 'Royal Suit',
+          image: BaseURL + 'detailImage/Suit/Royal+Suit.png'
+        },
+        {
+          name: 'Suit-Punk Suit',
+          image: BaseURL + 'detailImage/Suit/Suit-Punk+Suit.png'
+        },
+        {
+          name: 'Timothee Chalamet',
+          image: BaseURL + 'detailImage/Suit/Timothee+Chalamet.png'
+        }
+
+      ]
+    },
+    {
+      title: 'Cyberpunk',
+      des: 'Combining the long-standing punk culture with a sense of futuristic metal, cyberpunk has become a new aesthetic and a new combination. It also indicates that human beings will live with machines and technology in the future, which is a normal state. The future is not in the future, the future is already here.',
+      itemList: [
+        {
+          name: 'Bomb Expert',
+          image: BaseURL + 'detailImage/Cyberpunk/Bomb+Expert.png'
+        },
+        {
+          name: 'Breeze',
+          image: BaseURL + 'detailImage/Cyberpunk/Breeze.png'
+        },
+        {
+          name: 'Cyberpunk Clown',
+          image: BaseURL + 'detailImage/Cyberpunk/Cyberpunk+Clown.png'
+        },
+        {
+          name: 'Girl of steel',
+          image: BaseURL + 'detailImage/Cyberpunk/Girl+of+steel.png'
+        },
+        {
+          name: 'Moment',
+          image: BaseURL + 'detailImage/Cyberpunk/Moment.png'
+        },
+        {
+          name: 'Skateboard Boy',
+          image: BaseURL + 'detailImage/Cyberpunk/Skateboard+Boy.png'
+        },
+        {
+          name: 'The Dream Fairy',
+          image: BaseURL + 'detailImage/Cyberpunk/The+Dream+Fairy.png'
+        },
+        {
+          name: 'Warrior',
+          image: BaseURL + 'detailImage/Cyberpunk/Warrior.png'
+        }
+
+      ]
+    },
+    {
+      title: 'Yin-Yang',
+      des: 'Combining the long-standing punk culture with a sense of futuristic metal, cyberpunk has become a new aesthetic and a new combination. It also indicates that human beings will live with machines and technology in the future, which is a normal state. The future is not in the future, the future is already here.',
+      itemList: [
+        {
+          name: 'Angel',
+          image: BaseURL + 'detailImage/Yin-Yang/Angel.png'
+        },
+        {
+          name: 'Asura',
+          image: BaseURL + 'detailImage/Yin-Yang/Asura.png'
+        },
+        {
+          name: 'Angel',
+          image: BaseURL + 'detailImage/Yin-Yang/Angel.png'
+        },
+        {
+          name: 'Demon',
+          image: BaseURL + 'detailImage/Yin-Yang/Demon.png'
+        },
+        {
+          name: 'Devil',
+          image: BaseURL + 'detailImage/Yin-Yang/Devil.png'
+        },
+        {
+          name: 'Immortal',
+          image: BaseURL + 'detailImage/Yin-Yang/Immortal.png'
+        },
+        {
+          name: 'Sakra',
+          image: BaseURL + 'detailImage/Yin-Yang/Sakra.png'
+        },
+        {
+          name: 'Sister Garlic',
+          image: BaseURL + 'detailImage/Yin-Yang/Sister+Garlic.png'
+        },
+        {
+          name: 'Swancula',
+          image: BaseURL + 'detailImage/Yin-Yang/Swancula.png'
+        },
+      ]
+    },
+    {
+      title: 'Drag',
+      des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
+      itemList: [
+        {
+          name: 'Fire Queen',
+          image: BaseURL + 'detailImage/Drag+Queen/Fire+Queen.png'
+        },
+        {
+          name: 'Golden Queen',
+          image: BaseURL + 'detailImage/Drag+Queen/Golden+Queen.png'
+        },
+        {
+          name: 'Holy Queen',
+          image: BaseURL + 'detailImage/Drag+Queen/Holy+Queen.png'
+        },
+        {
+          name: 'Lily',
+          image: BaseURL + 'detailImage/Drag+Queen/Lily.png'
+        },
+        {
+          name: 'Nurse',
+          image: BaseURL + 'detailImage/Drag+Queen/Nurse.png'
+        },
+        {
+          name: 'Rose Queen',
+          image: BaseURL + 'detailImage/Drag+Queen/Rose+Queen.png'
+        },
+        {
+          name: 'Starlight',
+          image: BaseURL + 'detailImage/Drag+Queen/Starlight.png'
+        },
+      ]
+    },
+    {
+      title: 'Zodic',
+      des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
+      itemList: [
+        {
+          name: 'Dog',
+          image: BaseURL + 'detailImage/Zodic/Dog.png'
+        },
+        {
+          name: 'Dragon',
+          image: BaseURL + 'detailImage/Zodic/Dragon.png'
+        },
+        {
+          name: 'Horse',
+          image: BaseURL + 'detailImage/Zodic/Horse.png'
+        },
+        {
+          name: 'Monkey',
+          image: BaseURL + 'detailImage/Zodic/Monkey.png'
+        },
+        {
+          name: 'Mouse',
+          image: BaseURL + 'detailImage/Zodic/Mouse.png'
+        },
+        {
+          name: 'Ox',
+          image: BaseURL + 'detailImage/Zodic/Ox.png'
+        },
+        {
+          name: 'PIGGY',
+          image: BaseURL + 'detailImage/Zodic/PIGGY.png'
+        },
+        {
+          name: 'Rabbit',
+          image: BaseURL + 'detailImage/Zodic/Rabbit.png'
+        },
+        {
+          name: 'Rooster',
+          image: BaseURL + 'detailImage/Zodic/Rooster.png'
+        },
+        {
+          name: 'Sheep',
+          image: BaseURL + 'detailImage/Zodic/Sheep.png'
+        },
+        {
+          name: 'Snake',
+          image: BaseURL + 'detailImage/Zodic/Snake.png'
+        },
+        {
+          name: 'Tiger',
+          image: BaseURL + 'detailImage/Zodic/Tiger.png'
+        },
+      ]
+    },
+    {
+      title: 'Tarot',
+      des: 'People use occult power to premonish the future, and the future unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
+      itemList: [
+        {
+          name: 'Death',
+          image: BaseURL + 'detailImage/Tarot/Death.png'
+        },
+        {
+          name: 'Emperor',
+          image: BaseURL + 'detailImage/Tarot/Emperor.png'
+        },
+        {
+          name: 'Empress',
+          image: BaseURL + 'detailImage/Tarot/Empress.png'
+        },
+        {
+          name: 'Hermit',
+          image: BaseURL + 'detailImage/Tarot/Hermit.png'
+        },
+        {
+          name: 'Judgement',
+          image: BaseURL + 'detailImage/Tarot/Judgement.png'
+        },
+        {
+          name: 'Lover',
+          image: BaseURL + 'detailImage/Tarot/Lover.png'
+        },
+        {
+          name: 'Magician',
+          image: BaseURL + 'detailImage/Tarot/Magician.png'
+        },
+        {
+          name: 'Strength',
+          image: BaseURL + 'detailImage/Tarot/Strength.png'
+        },
+      ]
+    }
+  ],
+
   nft1: {
     describe: {
       days: {
@@ -566,7 +1015,7 @@ export default {
     a universal term that unifies all creators and their unique stories.`,
     rightDesc3: `We Are Theirs!`,
     p1: 'Theirsverse ',
-    p2: ` is founded by a group of young artists from diverse cultural backgrounds and gender identities. The name "Theirsverse" is compounded of "Theirs" and "universe", implying that the universe is not simply "he him his" or "she her hers". 
+    p2: ` is founded by a group of young artists from diverse cultural backgrounds and gender identities. The name "Theirsverse" is compounded of "Theirs" and "universe", implying that the universe is not simply "he him his" or "she her hers".
     The word "theirs" represents a community that can open up their heart to new identities and multiculturalism. That's what Theirsverse believes in - We humans are more similar than we are different. `,
     p3: `We are Theirsverse.`,
 
@@ -580,9 +1029,9 @@ export default {
     one that can symbolize a variety of inner
     emotion for the holder to resonate with.`,
     h2Title2: `In Theirsverse, our artists embrace the
-    fluidity of gender, you can express your 
+    fluidity of gender, you can express your
     identities in new ways!`,
-    desc2: `We want to find a universal way to connect 
+    desc2: `We want to find a universal way to connect
     and communicate with a new generation.`,
     desc3: ``
   },
