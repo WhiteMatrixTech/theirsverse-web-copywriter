@@ -1042,22 +1042,22 @@ export default {
   faq: [
     {
       q: 'How to get the whitelist?',
-      a: 'Enter Discord to view our Allowlist points. ',
+      a: 'Enter Discord to view our Allowlist points. Whitelist mint will start on July 11, 22:55:55 EDT.',
       expand: true
     },
     {
       q: 'Whitelist benefits?',
-      a: 'Priority mint, the price will be announced shortly.',
+      a: 'Priority mint, the price will be one of Free/0.05/0.1/0.15ETH. You can verify your whitelist by click "Verify Whitelist".',
       expand: false
     },
     {
       q: ' Mint channel:',
-      a: 'Official website, launch date will be announced shortly. ',
+      a: 'Official website, launch date can be seen in "Day Countdown". ',
       expand: false
     },
     {
       q: 'What is the total amount of NFT?',
-      a: 'To be announced soon. ',
+      a: '5500. ',
       expand: false
     },
     {
