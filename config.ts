@@ -185,7 +185,7 @@ export default {
   nftV2: [
     {
       source: BaseURL + 'star2/RAINBOW.mp4',
-      title: 'RAINBOW',
+      title: 'Rainbow',
       des: 'Every color on the rainbow should be respected.Red(Life) = life\nOrange(Healing) = Healing\nYellow(Sunlight) = sunlight\nGreen(Nature) = Nature\nIndigo(Harmony) = Harmony\nPurple(Spirit) = Spirit',
       background: 'rgba(154, 15, 11, 0.2)',
       rgb: [205, 195, 196],
@@ -197,7 +197,7 @@ export default {
 
     {
       source: BaseURL + 'star2/CYBERPUNK.mp4',
-      title: 'CYBERPUNK',
+      title: 'Cyberpunk',
       des: 'Combining the long-standing punk culture with a sense of futuristic metal, cyberpunk has become a new aesthetic and a new combination. It also indicates that human beings will live with machines and technology in the future, which is a normal state. The future is not in the future, the future is already here.',
       background: '',
       rgb: [231, 207, 227],
@@ -207,7 +207,7 @@ export default {
     },
     {
       source: BaseURL + 'star2/SUPERSTAR.mp4',
-      title: 'SUPERSTAR',
+      title: 'SuperStar',
       des: 'Everyone should be his or her or their own superstar, and Theirsverse wants to create a stage for the superstars. Here, everyone is his or her or their own boss, and everyone shines in his or her or their own way.',
       background: 'rgba(245, 165, 72, 0.2)',
       rgb: [229, 234, 195],
@@ -219,7 +219,7 @@ export default {
 
     {
       source: BaseURL + 'star2/DYNASTY.mp4',
-      title: 'DYNASTY',
+      title: 'Dynasty',
       des: 'Every culture has their own different spirit that is worthy of acknowledging and learning from. It is these differences that make us love the world and want to feel the collision of each culture. The more you understand the civilization of others, the more humbly you can accept differences.',
       background: 'rgba(141, 38, 38, 0.2)',
       rgb: [203, 230, 227],
@@ -229,7 +229,7 @@ export default {
     },
     {
       source: BaseURL + 'star2/YINYANG.mp4',
-      title: 'YIN-YANG',
+      title: 'Yin-Yang',
       des: 'When the term decentralization keeps appearing around us, centralized aesthetics, unified values, and the opposition of black and white, YIN and YANG is still prominent. For demons, it is the angels who are really cruel, and who should be the main judge of the opposition between angels and demons? Only by bravely breaking the opposition and accepting it can we bring a better future to mankind.',
       background: '',
       rgb: [184, 200, 209],
@@ -239,7 +239,7 @@ export default {
     },
     {
       source: BaseURL + 'star2/SUIT.mp4',
-      title: 'SUIT',
+      title: 'Suit',
       des: 'Humans’ understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a determination of gender. Human beings can be more tolerant and accepting by understanding the diversity of human nature. Just like the name Theirsverse, we are not only he/him/his or she/her/hers, we are also they/them/theirs. We can embrace, we can include, and we can connect.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [188, 206, 192],
@@ -249,7 +249,7 @@ export default {
     },
     {
       source: BaseURL + 'star2/QUEEN.mp4',
-      title: 'DRAG',
+      title: 'Drag',
       des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [229, 207, 211],
@@ -259,7 +259,7 @@ export default {
     },
     {
       source: BaseURL + 'star2/TAROT.mp4',
-      title: 'TAROT',
+      title: 'Tarot',
       des: 'People use occult power to premonish the future, and the future unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [227, 181, 213],
@@ -269,7 +269,7 @@ export default {
     },
     {
       source: BaseURL + 'star2/ZODIAC.mp4',
-      title: 'ZODIAC',
+      title: 'Zodiac',
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       background: 'rgba(162, 162, 162, 0.2)',
       rgb: [244, 225, 144],
@@ -288,7 +288,7 @@ export default {
     },
     {
       image: BaseURL + '4nft/SuperStar.png',
-      title: 'Super Star',
+      title: 'SuperStar',
       lock: false,
       target: BaseURL + 'starGif/SuperStar.gif'
     },
@@ -373,7 +373,7 @@ export default {
       ]
     },
     {
-      title: 'Super Star',
+      title: 'SuperStar',
       des: 'Everyone should be his or her or their own superstar, and Theirsverse wants to create a stage for the superstars. Here, everyone is his or her or their own boss, and everyone shines in his or her or their own way.',
       itemList: [
         {
