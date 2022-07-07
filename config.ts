@@ -692,7 +692,7 @@ export default {
       ]
     },
     {
-      title: 'Zodic',
+      title: 'Zodiac',
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       itemList: [
         {
