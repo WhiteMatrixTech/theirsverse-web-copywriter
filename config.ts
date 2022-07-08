@@ -677,31 +677,31 @@ export default {
       des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
       itemList: [
         {
-          name: 'Drag-Fire Queen',
+          name: 'Drag+Queen-Fire Queen',
           image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Fire+Queen.png'
         },
         {
-          name: 'Drag-Golden Queen',
+          name: 'Drag+Queen-Golden Queen',
           image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Golden+Queen.png'
         },
         {
-          name: 'Drag-Holy Queen',
+          name: 'Drag+Queen-Holy Queen',
           image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Holy+Queen.png'
         },
         {
-          name: 'Drag-Lily',
+          name: 'Drag+Queen-Lily',
           image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Lily.png'
         },
         {
-          name: 'Drag-Nurse',
+          name: 'Drag+Queen-Nurse',
           image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Nurse.png'
         },
         {
-          name: 'Drag-Rose Queen',
+          name: 'Drag+Queen-Rose Queen',
           image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Rose+Queen.png'
         },
         {
-          name: 'Drag-Starlight',
+          name: 'Drag+Queen-Starlight',
           image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Starlight.png'
         },
       ]
