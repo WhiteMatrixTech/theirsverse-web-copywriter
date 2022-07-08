@@ -343,6 +343,10 @@ export default {
       des: 'Every color on the rainbow should be respected.Red(Life) = life\nOrange(Healing) = Healing\nYellow(Sunlight) = sunlight\nGreen(Nature) = Nature\nIndigo(Harmony) = Harmony\nPurple(Spirit) = Spirit',
       itemList: [
         {
+          name: 'Rainbow-Alice Boy',
+          image: BaseURL + 'detailImage/Rainbow/Rainbow-Alice+Boy.png'
+        },
+        {
           name: 'Rainbow-Red',
           image: BaseURL + 'detailImage/Rainbow/Rainbow-Red.png'
         },
@@ -363,9 +367,6 @@ export default {
           image: BaseURL + 'detailImage/Rainbow/Rainbow-Blue.png'
         },
         {
-          name: 'Rainbow-Alice Boy',
-          image: BaseURL + 'detailImage/Rainbow/Rainbow-Alice+Boy.png'
-        }, {
           name: 'Rainbow-Purple',
           image: BaseURL + 'detailImage/Rainbow/Rainbow-Purple.png'
         },
