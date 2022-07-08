@@ -506,8 +506,8 @@ export default {
           image: BaseURL + 'detailImage/Dynasty/Dynasty-British+Princess.png'
         },
         {
-          name: 'Dynasty-Cheongsam girl',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-Cheongsam+girl.png'
+          name: 'Dynasty-Cheongsam Girl',
+          image: BaseURL + 'detailImage/Dynasty/Dynasty-Cheongsam+Girl.png'
         },
         {
           name: 'Dynasty-Egypt',
@@ -711,51 +711,51 @@ export default {
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       itemList: [
         {
-          name: 'Zodiac-Dog',
+          name: 'Zodic-Dog',
           image: BaseURL + 'detailImage/Zodic/Zodic-Dog.png'
         },
         {
-          name: 'Zodiac-Dragon',
+          name: 'Zodic-Dragon',
           image: BaseURL + 'detailImage/Zodic/Zodic-Dragon.png'
         },
         {
-          name: 'Zodiac-Horse',
+          name: 'Zodic-Horse',
           image: BaseURL + 'detailImage/Zodic/Zodic-Horse.png'
         },
         {
-          name: 'Zodiac-Monkey',
+          name: 'Zodic-Monkey',
           image: BaseURL + 'detailImage/Zodic/Zodic-Monkey.png'
         },
         {
-          name: 'Zodiac-Mouse',
+          name: 'Zodic-Mouse',
           image: BaseURL + 'detailImage/Zodic/Zodic-Mouse.png'
         },
         {
-          name: 'Zodiac-Ox',
+          name: 'Zodic-Ox',
           image: BaseURL + 'detailImage/Zodic/Zodic-Ox.png'
         },
         {
-          name: 'Zodiac-PIGGY',
+          name: 'Zodic-PIGGY',
           image: BaseURL + 'detailImage/Zodic/Zodic-PIGGY.png'
         },
         {
-          name: 'Zodiac-Rabbit',
+          name: 'Zodic-Rabbit',
           image: BaseURL + 'detailImage/Zodic/Zodic-Rabbit.png'
         },
         {
-          name: 'Zodiac-Rooster',
+          name: 'Zodic-Rooster',
           image: BaseURL + 'detailImage/Zodic/Zodic-Rooster.png'
         },
         {
-          name: 'Zodiac-Sheep',
+          name: 'Zodic-Sheep',
           image: BaseURL + 'detailImage/Zodic/Zodic-Sheep.png'
         },
         {
-          name: 'Zodiac-Snake',
+          name: 'Zodic-Snake',
           image: BaseURL + 'detailImage/Zodic/Zodic-Snake.png'
         },
         {
-          name: 'Zodiac-Tiger',
+          name: 'Zodic-Tiger',
           image: BaseURL + 'detailImage/Zodic/Zodic-Tiger.png'
         },
       ]
