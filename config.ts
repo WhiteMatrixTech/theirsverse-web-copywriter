@@ -514,7 +514,7 @@ export default {
           image: BaseURL + 'detailImage/Dynasty/Dynasty-Egypt.png'
         },
         {
-          name: 'Dynasty-German Gothic.png',
+          name: 'Dynasty-German Gothic',
           image: BaseURL + 'detailImage/Dynasty/Dynasty-German+Gothic.png'
         },
         {
@@ -528,10 +528,6 @@ export default {
         {
           name: 'Dynasty-Japan',
           image: BaseURL + 'detailImage/Dynasty/Dynasty-Japan.png'
-        },
-        {
-          name: 'Dynasty-Korea',
-          image: BaseURL + 'detailImage/Dynasty/Korea.png'
         },
         {
           name: 'Dynasty-Korean Boy',
