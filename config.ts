@@ -32,7 +32,7 @@ export default {
     title: 'Time: 11:00 AM ~ 2:00 PM  Jan. 1st 2022 UTC+8',
     mintTime: {
       gold: {
-        title: 'Gold Member Mint',
+        title: 'Gold Member Airdrop',
         time: `July 10, 22:55:55 ～ July 11, 22:55:55  EDT`,
         start: `July 10, 22:55:55 EDT`,
         price: '',
