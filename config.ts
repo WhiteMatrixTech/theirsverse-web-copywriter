@@ -59,6 +59,7 @@ export default {
         start: `July 16, 22:55:55 EDT`,
         title: 'Reveal',
         time: `July 16, 22:55:55  EDT`,
+        startTime: '2022/07/16 22:55:55 EDT',
       }
     }
   },
