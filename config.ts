@@ -733,7 +733,7 @@ export default {
         },
         {
           name: 'Zodiac-Pig',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-PIGGY.png'
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Pig.png'
         },
         {
           name: 'Zodiac-Rabbit',
