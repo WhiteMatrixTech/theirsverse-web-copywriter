@@ -570,7 +570,7 @@ export default {
           image: BaseURL + 'detailImage/Suit/Suit-Dragon+Suit.png'
         },
         {
-          name: 'Suit-Pinkboy',
+          name: 'Suit-Pink Lady',
           image: BaseURL + 'detailImage/Suit/Suit-Pink+Lady.png'
         },
         {
@@ -586,7 +586,7 @@ export default {
           image: BaseURL + 'detailImage/Suit/Suit-Punk+Suit.png'
         },
         {
-          name: 'Suit-Timothee Chalamet',
+          name: 'Suit-TC Suit',
           image: BaseURL + 'detailImage/Suit/Suit-TC+Suit.png'
         }
 
@@ -708,52 +708,52 @@ export default {
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       itemList: [
         {
-          name: 'Zodic-Dog',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Dog.png'
+          name: 'Zodiac-Dog',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Dog.png'
         },
         {
-          name: 'Zodic-Dragon',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Dragon.png'
+          name: 'Zodiac-Dragon',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Dragon.png'
         },
         {
-          name: 'Zodic-Horse',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Horse.png'
+          name: 'Zodiac-Horse',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Horse.png'
         },
         {
-          name: 'Zodic-Monkey',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Monkey.png'
+          name: 'Zodiac-Monkey',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Monkey.png'
         },
         {
-          name: 'Zodic-Mouse',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Mouse.png'
+          name: 'Zodiac-Mouse',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Mouse.png'
         },
         {
-          name: 'Zodic-Ox',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Ox.png'
+          name: 'Zodiac-Ox',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Ox.png'
         },
         {
-          name: 'Zodic-PIGGY',
-          image: BaseURL + 'detailImage/Zodic/Zodic-PIGGY.png'
+          name: 'Zodiac-Pig',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-PIGGY.png'
         },
         {
-          name: 'Zodic-Rabbit',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Rabbit.png'
+          name: 'Zodiac-Rabbit',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Rabbit.png'
         },
         {
-          name: 'Zodic-Rooster',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Rooster.png'
+          name: 'Zodiac-Rooster',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Rooster.png'
         },
         {
-          name: 'Zodic-Sheep',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Sheep.png'
+          name: 'Zodiac-Sheep',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Sheep.png'
         },
         {
-          name: 'Zodic-Snake',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Snake.png'
+          name: 'Zodiac-Snake',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Snake.png'
         },
         {
-          name: 'Zodic-Tiger',
-          image: BaseURL + 'detailImage/Zodic/Zodic-Tiger.png'
+          name: 'Zodiac-Tiger',
+          image: BaseURL + 'detailImage/Zodiac/Zodiac-Tiger.png'
         },
       ]
     },
