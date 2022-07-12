@@ -10,7 +10,7 @@ export default {
     notWhite: 'Not  Whitelisted',
     switchTip: 'please switch',
     confinementPrice: '0.0005',
-    viewOpensea: `https://testnets.opensea.io/account?tab=collected&search[sortBy]=CREATED_DATE`,
+    viewOpensea: `https://opensea.io/account?tab=collected&search[sortBy]=CREATED_DATE`,
     modal: {
       notWhite: [
         `You are not whitelisted, you can mint 1 Theirsverse
