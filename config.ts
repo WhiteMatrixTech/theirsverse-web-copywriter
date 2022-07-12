@@ -971,7 +971,7 @@ export default {
       title: 'discord',
       img: `${BaseURL}footer/v2/discord.png`,
       header_image: `${BaseURL}social_header/discord.png`,
-      link: 'https://discord.com/invite/KswvM25rqM',
+      link: 'https://discord.com/invite/theirsverse',
       width: '37.5',
       height: '37.5',
     },
