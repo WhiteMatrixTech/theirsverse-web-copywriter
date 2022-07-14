@@ -344,32 +344,32 @@ export default {
       des: 'Every color on the rainbow should be respected.Red(Life) = life\nOrange(Healing) = Healing\nYellow(Sunlight) = sunlight\nGreen(Nature) = Nature\nIndigo(Harmony) = Harmony\nPurple(Spirit) = Spirit',
       itemList: [
         {
-          name: 'Rainbow-Alice Boy',
-          image: BaseURL + 'detailImage/Rainbow/Rainbow-Alice+Boy.png'
+          name: 'Double Alice',
+          image: BaseURL + 'detailImage/Rainbow-Double+Alice/Double+Alice.png'
         },
         {
-          name: 'Rainbow-Red',
-          image: BaseURL + 'detailImage/Rainbow/Rainbow-Red.png'
+          name: 'Ble',
+          image: BaseURL + 'detailImage/Rainbow/Ble.png'
         },
         {
-          name: 'Rainbow-Orange',
-          image: BaseURL + 'detailImage/Rainbow/Rainbow-Orange.png'
+          name: 'Khroma',
+          image: BaseURL + 'detailImage/Rainbow/Khroma.png'
         },
         {
-          name: 'Rainbow-Yellow',
-          image: BaseURL + 'detailImage/Rainbow/Rainbow-Yellow.png'
+          name: 'Kitrino',
+          image: BaseURL + 'detailImage/Rainbow/Kitrino.png'
         },
         {
-          name: 'Rainbow-Green',
-          image: BaseURL + 'detailImage/Rainbow/Rainbow-Green.png'
+          name: 'Mov',
+          image: BaseURL + 'detailImage/Rainbow/Mov.png'
         },
         {
-          name: 'Rainbow-Blue',
-          image: BaseURL + 'detailImage/Rainbow/Rainbow-Blue.png'
+          name: 'Portokali',
+          image: BaseURL + 'detailImage/Rainbow/Portokali.png'
         },
         {
-          name: 'Rainbow-Purple',
-          image: BaseURL + 'detailImage/Rainbow/Rainbow-Purple.png'
+          name: 'Prasino',
+          image: BaseURL + 'detailImage/Rainbow/Prasino.png'
         },
       ]
     },
@@ -378,120 +378,120 @@ export default {
       des: 'Everyone should be his or her or their own superstar, and Theirsverse wants to create a stage for the superstars. Here, everyone is his or her or their own boss, and everyone shines in his or her or their own way.',
       itemList: [
         {
-          name: 'SuperStar-Always Neuter',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Always+Neuter.png'
+          name: 'Ghoul Jackson',
+          image: BaseURL + 'detailImage/SuperStar/Ghoul+Jackson.png'
         },
         {
-          name: 'SuperStar-Bear',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Bear.png'
+          name: 'Matrix',
+          image: BaseURL + 'detailImage/SuperStar/Matrix.png'
         },
         {
-          name: 'SuperStar-Camilia',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Camilia.png'
+          name: 'Velvet Star',
+          image: BaseURL + 'detailImage/SuperStar/Velvet+Star.png'
         },
         {
-          name: 'SuperStar-Camouflage Singer',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Camouflage+Singer.png'
+          name: 'Camouflage',
+          image: BaseURL + 'detailImage/SuperStar/Camouflage.png'
         },
         {
-          name: 'SuperStar-Cassie',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Cassie.png'
+          name: 'Starman',
+          image: BaseURL + 'detailImage/SuperStar/Starman.jpeg'
         },
         {
-          name: 'SuperStar-Cat Girl',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Cat+Girl.png'
+          name: 'The Rebel',
+          image: BaseURL + 'detailImage/SuperStar/The+Rebel.png'
         },
         {
-          name: 'SuperStar-Chocolate Girl',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Chocolate+Girl.png'
+          name: 'Hazza',
+          image: BaseURL + 'detailImage/SuperStar/Hazza.png'
         },
         {
-          name: 'SuperStar-Dr.Future',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Dr.Future.jpeg'
+          name: 'Melina',
+          image: BaseURL + 'detailImage/SuperStar/Melina.png'
         },
         {
-          name: 'SuperStar-Gentle Beast',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Gentle+Beast.png'
+          name: 'The Hillbilly Cat',
+          image: BaseURL + 'detailImage/SuperStar/The+Hillbilly+Cat.png'
         },
         {
-          name: 'SuperStar-Ghoul Jackson',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Ghoul+Jackson.png'
+          name: 'Always Neuter',
+          image: BaseURL + 'detailImage/SuperStar/Always+Neuter.png'
         },
         {
-          name: 'SuperStar-Hazza',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Hazza.png'
+          name: 'Gentle Beast',
+          image: BaseURL + 'detailImage/SuperStar/Gentle+Beast.png'
         },
         {
-          name: 'SuperStar-Latino',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Latino.png'
+          name: 'The Pioneer',
+          image: BaseURL + 'detailImage/SuperStar/The+Pioneer.png'
         },
         {
-          name: 'SuperStar-Matrix',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Matrix.png'
+          name: 'Camilia',
+          image: BaseURL + 'detailImage/SuperStar/Camilia.png'
         },
         {
-          name: 'SuperStar-Melina',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Melina.png'
+          name: 'Cassie',
+          image: BaseURL + 'detailImage/SuperStar/Cassie.png'
         },
         {
-          name: 'SuperStar-Movie Star',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Movie+Star.png'
+          name: 'Dola',
+          image: BaseURL + 'detailImage/SuperStar/Dola.png'
         },
         {
-          name: 'SuperStar-Olivine',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Olivine.png'
+          name: 'Dr.Tycho',
+          image: BaseURL + 'detailImage/SuperStar/Dr.Tycho.jpeg'
         },
         {
-          name: 'SuperStar-Palm Civet',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Palm+Civet.png'
+          name: 'Evelina',
+          image: BaseURL + 'detailImage/SuperStar/Evelina.png'
         },
         {
-          name: 'SuperStar-Pop Star',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Pop+Star.png'
+          name: 'Gaelle',
+          image: BaseURL + 'detailImage/SuperStar/Gaelle.png'
         },
         {
-          name: 'SuperStar-Rock Star',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Rock+Star.png'
+          name: 'Gata',
+          image: BaseURL + 'detailImage/SuperStar/Gata.png'
         },
         {
-          name: 'SuperStar-Rosemond',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Rosemond.png'
+          name: 'Kai',
+          image: BaseURL + 'detailImage/SuperStar/Kai.png'
         },
         {
-          name: 'SuperStar-Starman',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Starman.png'
+          name: 'Niko',
+          image: BaseURL + 'detailImage/SuperStar/Niko.png'
         },
         {
-          name: 'SuperStar-Surfer Boy',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Surfer+Boy.png'
+          name: 'Olivine',
+          image: BaseURL + 'detailImage/SuperStar/Olivine.png'
         },
         {
-          name: 'SuperStar-Takefu',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Takefu.png'
+          name: 'Rosemond',
+          image: BaseURL + 'detailImage/SuperStar/Rosemond.png'
         },
         {
-          name: 'SuperStar-The Hillbilly Cat',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-The+Hillbilly+Cat.png'
+          name: 'Ruth',
+          image: BaseURL + 'detailImage/SuperStar/Ruth.png'
         },
         {
-          name: 'SuperStar-The Pioneer',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-The+Pioneer.png'
+          name: 'Tawky',
+          image: BaseURL + 'detailImage/SuperStar/Tawky.png'
         },
         {
-          name: 'SuperStar-The Rebel',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-The+Rebel.png'
+          name: 'The General',
+          image: BaseURL + 'detailImage/SuperStar/The+General.png'
         },
         {
-          name: 'SuperStar-Tiger',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Tiger.png'
+          name: 'The Pistols',
+          image: BaseURL + 'detailImage/SuperStar/The Pistols.png'
         },
         {
-          name: 'SuperStar-Tsuki',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Tsuki.png'
+          name: 'Tsuki',
+          image: BaseURL + 'detailImage/SuperStar/Tsuki.png'
         },
         {
-          name: 'SuperStar-Velvet Boy',
-          image: BaseURL + 'detailImage/SuperStar/SuperStar-Velvet+Boy.png'
+          name: 'Valentina',
+          image: BaseURL + 'detailImage/SuperStar/Valentina.png'
         }
       ]
     },
@@ -500,66 +500,65 @@ export default {
       des: 'Every culture has their own different spirit that is worthy of acknowledging and learning from. It is these differences that make us love the world and want to feel the collision of each culture. The more you understand the civilization of others, the more humbly you can accept differences.',
       itemList: [
         {
-          name: 'Dynasty-British Knight',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-British+Knight.png'
+          name: 'Avery',
+          image: BaseURL + 'detailImage/Dynasty/Avery.png'
         },
         {
-          name: 'Dynasty-British Princess',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-British+Princess.png'
+          name: 'Gerta',
+          image: BaseURL + 'detailImage/Dynasty/Gerta.png'
         },
         {
-          name: 'Dynasty-Cheongsam Girl',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-Cheongsam+Girl.png'
+          name: 'Kilian',
+          image: BaseURL + 'detailImage/Dynasty/Kilian.png'
         },
         {
-          name: 'Dynasty-Egypt',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-Egypt.png'
+          name: 'Korbin',
+          image: BaseURL + 'detailImage/Dynasty/Korbin.png'
         },
         {
-          name: 'Dynasty-German Gothic',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-German+Gothic.png'
+          name: 'Libertas',
+          image: BaseURL + 'detailImage/Dynasty/Libertas.png'
         },
         {
-          name: 'Dynasty-India',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-India.png'
+          name: 'Mavis',
+          image: BaseURL + 'detailImage/Dynasty/Mavis.png'
         },
         {
-          name: 'Dynasty-Italy',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-Italy.png'
+          name: 'Medici',
+          image: BaseURL + 'detailImage/Dynasty/Medici.png'
         },
         {
-          name: 'Dynasty-Japan',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-Japan.png'
+          name: 'Nut',
+          image: BaseURL + 'detailImage/Dynasty/Nut.png'
         },
         {
-          name: 'Dynasty-Korean Boy',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-Korean+Boy.png'
+          name: 'Qing',
+          image: BaseURL + 'detailImage/Dynasty/Qing.png'
         },
         {
-          name: 'Dynasty-Korean Girl',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-Korean+Girl.png'
+          name: 'Rococo',
+          image: BaseURL + 'detailImage/Dynasty/Rococo.png'
         },
         {
-          name: 'Dynasty-Rococo',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-Rococo.png'
+          name: 'Sakuran',
+          image: BaseURL + 'detailImage/Dynasty/Sakuran.png'
         },
         {
-          name: 'Dynasty-Sakuran',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-Sakuran.png'
+          name: 'Samurai',
+          image: BaseURL + 'detailImage/Dynasty/Samurai.png'
         },
         {
-          name: 'Dynasty-The Qing Dynasty',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-The+Qing+Dynasty.png'
+          name: 'Sarasvati',
+          image: BaseURL + 'detailImage/Dynasty/Sarasvati.png'
         },
         {
-          name: 'Dynasty-The Tang Dynasty',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-The+Tang+Dynasty.png'
+          name: 'Sir Isaac',
+          image: BaseURL + 'detailImage/Dynasty/Sir+Isaac.png'
         },
         {
-          name: 'Dynasty-USA-Statue of Liberty',
-          image: BaseURL + 'detailImage/Dynasty/Dynasty-USA-Statue+of+Liberty.png'
-        },
-
+          name: 'Vivizabeth',
+          image: BaseURL + 'detailImage/Dynasty/Vivizabeth.png'
+        }
       ]
     },
     {
@@ -567,30 +566,29 @@ export default {
       des: 'Humans’ understanding of themselves is constantly evolving. The way the society once tried to distinguish between men and women by clothing and color is gradually being disputed. Clothing is by no means a determination of gender. Human beings can be more tolerant and accepting by understanding the diversity of human nature. Just like the name Theirsverse, we are not only he/him/his or she/her/hers, we are also they/them/theirs. We can embrace, we can include, and we can connect.',
       itemList: [
         {
-          name: 'Suit-Dragon Suit',
-          image: BaseURL + 'detailImage/Suit/Suit-Dragon+Suit.png'
+          name: 'Carl',
+          image: BaseURL + 'detailImage/Suit/Carl.png'
         },
         {
-          name: 'Suit-Pink Lady',
-          image: BaseURL + 'detailImage/Suit/Suit-Pink+Lady.png'
+          name: 'Edward',
+          image: BaseURL + 'detailImage/Suit/Edward.png'
         },
         {
-          name: 'Suit-Raven Suit',
-          image: BaseURL + 'detailImage/Suit/Suit-Raven+Suit.png'
+          name: 'Elio',
+          image: BaseURL + 'detailImage/Suit/Elio.png'
         },
         {
-          name: 'Suit-Royal Suit',
-          image: BaseURL + 'detailImage/Suit/Suit-Royal+Suit.png'
+          name: 'Iggy',
+          image: BaseURL + 'detailImage/Suit/Iggy.png'
         },
         {
-          name: 'Suit-Punk Suit',
-          image: BaseURL + 'detailImage/Suit/Suit-Punk+Suit.png'
+          name: 'Leslie',
+          image: BaseURL + 'detailImage/Suit/Leslie.png'
         },
         {
-          name: 'Suit-TC Suit',
-          image: BaseURL + 'detailImage/Suit/Suit-TC+Suit.png'
+          name: 'Oboth',
+          image: BaseURL + 'detailImage/Suit/Oboth.png'
         }
-
       ]
     },
     {
@@ -598,36 +596,36 @@ export default {
       des: 'Combining the long-standing punk culture with a sense of futuristic metal, cyberpunk has become a new aesthetic and a new combination. It also indicates that human beings will live with machines and technology in the future, which is a normal state. The future is not in the future, the future is already here.',
       itemList: [
         {
-          name: 'Cyberpunk-Bomb Expert',
-          image: BaseURL + 'detailImage/Cyberpunk/Cyberpunk-Bomb+Expert.png'
+          name: 'Dredd',
+          image: BaseURL + 'detailImage/Cyberpunk/Dredd.png'
         },
         {
-          name: 'Cyberpunk-Breeze',
-          image: BaseURL + 'detailImage/Cyberpunk/Cyberpunk-Breeze.png'
+          name: 'Fallyn',
+          image: BaseURL + 'detailImage/Cyberpunk/Fallyn.png'
         },
         {
-          name: 'Cyberpunk-Cyberpunk Clown',
-          image: BaseURL + 'detailImage/Cyberpunk/Cyberpunk-Cyberpunk+Clown.png'
+          name: 'Faye',
+          image: BaseURL + 'detailImage/Cyberpunk/Faye.png'
         },
         {
-          name: 'Cyberpunk-Girl of steel',
-          image: BaseURL + 'detailImage/Cyberpunk/Cyberpunk-Girl+of+steel.png'
+          name: 'Kaine',
+          image: BaseURL + 'detailImage/Cyberpunk/Kaine.png'
         },
         {
-          name: 'Cyberpunk-Moment',
-          image: BaseURL + 'detailImage/Cyberpunk/Cyberpunk-Moment.png'
+          name: 'Lenina',
+          image: BaseURL + 'detailImage/Cyberpunk/Lenina.png'
         },
         {
-          name: 'Cyberpunk-Skateboard Boy',
-          image: BaseURL + 'detailImage/Cyberpunk/Cyberpunk-Skateboard+Boy.png'
+          name: 'Minty',
+          image: BaseURL + 'detailImage/Cyberpunk/Minty.png'
         },
         {
-          name: 'Cyberpunk-The Dream Fairy',
-          image: BaseURL + 'detailImage/Cyberpunk/Cyberpunk-The+Dream+Fairy.png'
+          name: 'Regis',
+          image: BaseURL + 'detailImage/Cyberpunk/Regis.png'
         },
         {
-          name: 'Cyberpunk-Warrior',
-          image: BaseURL + 'detailImage/Cyberpunk/Cyberpunk-Warrior.png'
+          name: 'Vilos',
+          image: BaseURL + 'detailImage/Cyberpunk/Vilos.png'
         }
 
       ]
@@ -637,36 +635,36 @@ export default {
       des: 'Combining the long-standing punk culture with a sense of futuristic metal, cyberpunk has become a new aesthetic and a new combination. It also indicates that human beings will live with machines and technology in the future, which is a normal state. The future is not in the future, the future is already here.',
       itemList: [
         {
-          name: 'Yin-Yang-Angel',
-          image: BaseURL + 'detailImage/Yin-Yang/Yin-Yang-Angel.png'
+          name: 'Immortal Wukong',
+          image: BaseURL + 'detailImage/Yin-Yang/Immortal+Wukong.png'
         },
         {
-          name: 'Yin-Yang-Asura',
-          image: BaseURL + 'detailImage/Yin-Yang/Yin-Yang-Asura.png'
+          name: 'Demon White',
+          image: BaseURL + 'detailImage/Yin-Yang/Demon+White.png'
         },
         {
-          name: 'Yin-Yang-Demon',
-          image: BaseURL + 'detailImage/Yin-Yang/Yin-Yang-Demon.png'
+          name: 'Angel Eros',
+          image: BaseURL + 'detailImage/Yin-Yang/Angel+Eros.png'
         },
         {
-          name: 'Yin-Yang-Devil',
-          image: BaseURL + 'detailImage/Yin-Yang/Yin-Yang-Devil.png'
+          name: 'Devil Abadon',
+          image: BaseURL + 'detailImage/Yin-Yang/Devil+Abadon.png'
         },
         {
-          name: 'Yin-Yang-Immortal',
-          image: BaseURL + 'detailImage/Yin-Yang/Yin-Yang-Immortal.png'
+          name: 'Sakra',
+          image: BaseURL + 'detailImage/Yin-Yang/Sakra.png'
         },
         {
-          name: 'Yin-Yang-Sakra',
-          image: BaseURL + 'detailImage/Yin-Yang/Yin-Yang-Sakra.png'
+          name: 'Asura',
+          image: BaseURL + 'detailImage/Yin-Yang/Asura.png'
         },
         {
-          name: 'Yin-Yang-Sister Garlic',
-          image: BaseURL + 'detailImage/Yin-Yang/Yin-Yang-Sister+Garlic.png'
+          name: 'Sister Garlic',
+          image: BaseURL + 'detailImage/Yin-Yang/Sister+Garlic.png'
         },
         {
-          name: 'Yin-Yang-Swancula',
-          image: BaseURL + 'detailImage/Yin-Yang/Yin-Yang-Swancula.png'
+          name: 'Swancula',
+          image: BaseURL + 'detailImage/Yin-Yang/Swancula.png'
         },
       ]
     },
@@ -675,32 +673,32 @@ export default {
       des: 'When we use makeup to change our appearance and "play" with our identity, it’s incredibly powerful. Everyone can decide how they look and express their interpretation of beauty in their own way.',
       itemList: [
         {
-          name: 'Drag+Queen-Fire Queen',
-          image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Fire+Queen.png'
+          name: 'Aguicheur',
+          image: BaseURL + 'detailImage/Drag/Aguicheur.png'
         },
         {
-          name: 'Drag+Queen-Golden Queen',
-          image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Golden+Queen.png'
+          name: 'Floral',
+          image: BaseURL + 'detailImage/Drag/Floral.png'
         },
         {
-          name: 'Drag+Queen-Holy Queen',
-          image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Holy+Queen.png'
+          name: 'Gala',
+          image: BaseURL + 'detailImage/Drag/Gala.png'
         },
         {
-          name: 'Drag+Queen-Lily',
-          image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Lily.png'
+          name: 'Lily',
+          image: BaseURL + 'detailImage/Drag/Lily.png'
         },
         {
-          name: 'Drag+Queen-Nurse',
-          image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Nurse.png'
+          name: 'Mater Amabilis',
+          image: BaseURL + 'detailImage/Drag/Mater+Amabilis.png'
         },
         {
-          name: 'Drag+Queen-Rose Queen',
-          image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Rose+Queen.png'
+          name: 'Peril',
+          image: BaseURL + 'detailImage/Drag/Peril.png'
         },
         {
-          name: 'Drag+Queen-Starlight',
-          image: BaseURL + 'detailImage/Drag+Queen/Drag+Queen-Starlight.png'
+          name: 'Pink Cherry',
+          image: BaseURL + 'detailImage/Drag/Pink+Cherry.png'
         },
       ]
     },
@@ -709,52 +707,52 @@ export default {
       des: '12 western constellation signs represent 12 different personalities, while the eastern zodiac reveals the auspice of the year. Zodiac also inspires human divination. The East and the West can be communion.',
       itemList: [
         {
-          name: 'Zodiac-Dog',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Dog.png'
+          name: 'Chen',
+          image: BaseURL + 'detailImage/Zodiac/Chen.png'
         },
         {
-          name: 'Zodiac-Dragon',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Dragon.png'
+          name: 'Chou',
+          image: BaseURL + 'detailImage/Zodiac/Chou.png'
         },
         {
-          name: 'Zodiac-Horse',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Horse.png'
+          name: 'Hai',
+          image: BaseURL + 'detailImage/Zodiac/Hai.png'
         },
         {
-          name: 'Zodiac-Monkey',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Monkey.png'
+          name: 'Mao',
+          image: BaseURL + 'detailImage/Zodiac/Mao.png'
         },
         {
-          name: 'Zodiac-Mouse',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Mouse.png'
+          name: 'Shen',
+          image: BaseURL + 'detailImage/Zodiac/Shen.png'
         },
         {
-          name: 'Zodiac-Ox',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Ox.png'
+          name: 'Si',
+          image: BaseURL + 'detailImage/Zodiac/Si.png'
         },
         {
-          name: 'Zodiac-Pig',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Pig.png'
+          name: 'Wei',
+          image: BaseURL + 'detailImage/Zodiac/Wei.png'
         },
         {
-          name: 'Zodiac-Rabbit',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Rabbit.png'
+          name: 'Wu',
+          image: BaseURL + 'detailImage/Zodiac/Wu.png'
         },
         {
-          name: 'Zodiac-Rooster',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Rooster.png'
+          name: 'Xu',
+          image: BaseURL + 'detailImage/Zodiac/Xu.png'
         },
         {
-          name: 'Zodiac-Sheep',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Sheep.png'
+          name: 'Yin',
+          image: BaseURL + 'detailImage/Zodiac/Yin.png'
         },
         {
-          name: 'Zodiac-Snake',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Snake.png'
+          name: 'You',
+          image: BaseURL + 'detailImage/Zodiac/You.png'
         },
         {
-          name: 'Zodiac-Tiger',
-          image: BaseURL + 'detailImage/Zodiac/Zodiac-Tiger.png'
+          name: 'Zi',
+          image: BaseURL + 'detailImage/Zodiac/Zi.png'
         },
       ]
     },
@@ -763,36 +761,36 @@ export default {
       des: 'People use occult power to premonish the future, and the future unfolds in a parallel world. Our intuition has always led us towards the realization of our ideals, and the intuition of the younger generation at this moment is to create a diverse and inclusive metaverse.',
       itemList: [
         {
-          name: 'Tarot-Death',
-          image: BaseURL + 'detailImage/Tarot/Tarot-Death.png'
+          name: 'Death',
+          image: BaseURL + 'detailImage/Tarot/Death.png'
         },
         {
-          name: 'Tarot-Emperor',
-          image: BaseURL + 'detailImage/Tarot/Tarot-Emperor.png'
+          name: 'Emperor',
+          image: BaseURL + 'detailImage/Tarot/Emperor.png'
         },
         {
-          name: 'Tarot-Empress',
-          image: BaseURL + 'detailImage/Tarot/Tarot-Empress.png'
+          name: 'Empress',
+          image: BaseURL + 'detailImage/Tarot/Empress.png'
         },
         {
-          name: 'Tarot-Hermit',
-          image: BaseURL + 'detailImage/Tarot/Tarot-Hermit.png'
+          name: 'Hermit',
+          image: BaseURL + 'detailImage/Tarot/Hermit.png'
         },
         {
-          name: 'Tarot-Judgement',
-          image: BaseURL + 'detailImage/Tarot/Tarot-Judgement.png'
+          name: 'Judgement',
+          image: BaseURL + 'detailImage/Tarot/Judgement.png'
         },
         {
-          name: 'Tarot-Lover',
-          image: BaseURL + 'detailImage/Tarot/Tarot-Lover.png'
+          name: 'Lover',
+          image: BaseURL + 'detailImage/Tarot/Lover.png'
         },
         {
-          name: 'Tarot-Magician',
-          image: BaseURL + 'detailImage/Tarot/Tarot-Magician.png'
+          name: 'Magician',
+          image: BaseURL + 'detailImage/Tarot/Magician.png'
         },
         {
-          name: 'Tarot-Strength',
-          image: BaseURL + 'detailImage/Tarot/Tarot-Strength.png'
+          name: 'Strength',
+          image: BaseURL + 'detailImage/Tarot/Strength.png'
         },
       ]
     }
