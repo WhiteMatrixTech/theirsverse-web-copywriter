@@ -348,29 +348,31 @@ export default {
           image: BaseURL + 'detailImage/Rainbow-Double+Alice/Double+Alice.png'
         },
         {
-          name: 'Ble',
-          image: BaseURL + 'detailImage/Rainbow/Ble.png'
-        },
-        {
           name: 'Khroma',
           image: BaseURL + 'detailImage/Rainbow/Khroma.png'
-        },
-        {
-          name: 'Kitrino',
-          image: BaseURL + 'detailImage/Rainbow/Kitrino.png'
-        },
-        {
-          name: 'Mov',
-          image: BaseURL + 'detailImage/Rainbow/Mov.png'
         },
         {
           name: 'Portokali',
           image: BaseURL + 'detailImage/Rainbow/Portokali.png'
         },
         {
+          name: 'Kitrino',
+          image: BaseURL + 'detailImage/Rainbow/Kitrino.png'
+        },
+        {
           name: 'Prasino',
           image: BaseURL + 'detailImage/Rainbow/Prasino.png'
         },
+        {
+          name: 'Ble',
+          image: BaseURL + 'detailImage/Rainbow/Ble.png'
+        },
+        {
+          name: 'Mov',
+          image: BaseURL + 'detailImage/Rainbow/Mov.png'
+        },
+
+
       ]
     },
     {
