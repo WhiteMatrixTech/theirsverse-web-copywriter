@@ -998,6 +998,11 @@ export default {
     volume: '-',
     day: [0, 5]
   },
+  capsule: {
+    homeGif: `${BaseURL}capsule/HomeCapsule.svg`,
+    homeDesc: 'Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!platform!Hi  Theirsverse introduction of the capsule platform!'
+
+  },
   about: {
     mobileLeftDesc1: `Theirsverse aims to create a community that celebrates`,
     pcLeftDesc1: `Theirsverse aims to create a community
