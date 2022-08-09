@@ -1001,8 +1001,8 @@ export default {
   capsule: {
     homeGif: `${BaseURL}capsule/HomeCapsule.svg`,
     homeDesc: 'Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!platform!Hi  Theirsverse introduction of the capsule platform!',
-    capsuleBg: `${BaseURL}capsule/capsuleBg.svg`,
-    noTheirVerseCapsule: `${BaseURL}capsule/noTheirverseCapsule.png`,
+    noTheirVerseCapsuleBg: `${BaseURL}capsule/noTheirverseCapsule.png`,
+    noTheirVerseCapsule: `${BaseURL}capsule/noTheirverseCapsule.svg`,
   },
   about: {
     mobileLeftDesc1: `Theirsverse aims to create a community that celebrates`,
