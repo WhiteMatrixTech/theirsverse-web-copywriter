@@ -999,7 +999,7 @@ export default {
     day: [0, 5]
   },
   capsule: {
-    homeGif: `${BaseURL}capsule/HomeCapsule.svg`,
+    homeGif: `${BaseURL}capsule/HomeCapsule.gif`,
     homeDesc: 'Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!platform!Hi  Theirsverse introduction of the capsule platform!',
     noTheirVerseCapsuleBg: `${BaseURL}capsule/noTheirverseCapsule.png`,
     noTheirVerseCapsule: `${BaseURL}capsule/noTheirverseCapsule.svg`,
