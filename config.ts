@@ -1004,6 +1004,7 @@ export default {
     noTheirVerseCapsuleBg: `${BaseURL}capsule/noTheirverseCapsule.png`,
     noTheirVerseCapsule: `${BaseURL}capsule/noTheirverseCapsule.svg`,
     pfpSelectedImg: `${BaseURL}capsule/pfp-selected.svg`,
+    aliceOopsGif: `${BaseURL}capsule/AliceOops.svg`,
     pfpList: [
       `${BaseURL}capsule/pfpList/pfp1.png`,
       `${BaseURL}capsule/pfpList/pfp2.png`,
