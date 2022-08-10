@@ -1003,6 +1003,7 @@ export default {
     homeDesc: 'Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!platform!Hi  Theirsverse introduction of the capsule platform!',
     noTheirVerseCapsuleBg: `${BaseURL}capsule/noTheirverseCapsule.png`,
     noTheirVerseCapsule: `${BaseURL}capsule/noTheirverseCapsule.svg`,
+    pfpSelectedImg: `${BaseURL}capsule/pfp-selected.svg`,
   },
   about: {
     mobileLeftDesc1: `Theirsverse aims to create a community that celebrates`,
