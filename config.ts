@@ -1011,6 +1011,10 @@ export default {
       `${BaseURL}capsule/pfpList/pfp2.png`,
       `${BaseURL}capsule/pfpList/pfp3.png`
     ],
+    defaultAvatar: `${BaseURL}capsule/default-avatar.svg`,
+    editPencil: `${BaseURL}capsule/edit-pen.svg`,
+    pfpSelected: `${BaseURL}capsule/pfp-selected.svg`,
+    questionImg: `${BaseURL}capsule/question.svg`,
     enterSpaceCapsuleGif: `${BaseURL}capsule/enter-capsule.png`,
     enterSpaceCapsuleVideo: `${BaseURL}capsule/SpaceCapsule.mp4`,
   },
