@@ -1012,6 +1012,7 @@ export default {
       `${BaseURL}capsule/pfpList/pfp3.png`
     ],
     enterSpaceCapsuleGif: `${BaseURL}capsule/enter-capsule.png`,
+    enterSpaceCapsuleVideo: `${BaseURL}capsule/SpaceCapsule.mp4`,
   },
   about: {
     mobileLeftDesc1: `Theirsverse aims to create a community that celebrates`,
