@@ -1011,6 +1011,7 @@ export default {
       `${BaseURL}capsule/pfpList/pfp2.png`,
       `${BaseURL}capsule/pfpList/pfp3.png`
     ],
+    redeemBanner: `${BaseURL}capsule/RedeemBanner.svg`,
     defaultAvatar: `${BaseURL}capsule/default-avatar.svg`,
     editPencil: `${BaseURL}capsule/edit-pen.svg`,
     pfpSelected: `${BaseURL}capsule/pfp-selected.svg`,
