@@ -1018,6 +1018,7 @@ export default {
     questionImg: `${BaseURL}capsule/question.svg`,
     enterSpaceCapsuleGif: `${BaseURL}capsule/enter-capsule.png`,
     enterSpaceCapsuleVideo: `${BaseURL}capsule/SpaceCapsule.mp4`,
+    redeemStepFinish: `${BaseURL}capsule/step-finish.svg`,
   },
   about: {
     mobileLeftDesc1: `Theirsverse aims to create a community that celebrates`,
