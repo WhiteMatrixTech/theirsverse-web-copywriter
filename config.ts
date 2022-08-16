@@ -1017,7 +1017,7 @@ export default {
     pfpSelected: `${BaseURL}capsule/pfp-selected.svg`,
     questionImg: `${BaseURL}capsule/question.svg`,
     enterSpaceCapsuleGif: `${BaseURL}capsule/enter-capsule.png`,
-    enterSpaceCapsuleVideo: `${BaseURL}capsule/SpaceCapsule.mp4`,
+    enterSpaceShipVideo: `${BaseURL}capsule/SpaceShip.mp4`,
     redeemStepFinish: `${BaseURL}capsule/step-finish.svg`,
     redeemSuccess: `${BaseURL}capsule/redeem-success.svg`,
     tipSvg: `${BaseURL}capsule/tip.svg`,
