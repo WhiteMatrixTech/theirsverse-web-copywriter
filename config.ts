@@ -1019,6 +1019,7 @@ export default {
     questionImg: `${BaseURL}capsule/question.svg`,
     enterSpaceCapsuleGif: `${BaseURL}capsule/enter-capsule.png`,
     enterSpaceShipVideo: `${BaseURL}capsule/SpaceShipBg.mp4`,
+    enterSpaceShipVideoH5: `${BaseURL}capsule/SpaceShipBgH5.mp4`,
     spaceShipGif: `${BaseURL}capsule/SpaceShipAll.gif`,
     redeemStepFinish: `${BaseURL}capsule/step-finish.svg`,
     redeemSuccess: `${BaseURL}capsule/redeem-success.svg`,
