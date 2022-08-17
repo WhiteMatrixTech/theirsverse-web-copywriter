@@ -1001,6 +1001,20 @@ export default {
   capsule: {
     homeTitle: 'Theirs Spaceship',
     homeDesc: 'Take your theirs and ride on our special spaceship, fly to the mysterious unknown Theirspace! In Theirspace you can not only meet interesting soul mates, bue  also begain to accure rewards and unlock additional benefits. Are you ready? Let’s go...',
+    TheirspaceDesc: [
+      {
+        title: 'CONCEPT INTRODUCTION',
+        content: "Theirspace is a gift redeem system, specifically dedicate to our holders.We provide many unique gift to our lovely famliy members.Our gifts include both online and offline, with your earned scare you can gain art toy, cosmetic products and offline activity  tickets."
+      },
+      {
+        title: 'WHY JOIN THEIRSPACE',
+        content: "Theirspace is a gift redeem system, specifically dedicate to our holders.We provide many unique gift to our lovely famliy members.Our gifts include both online and offline, with your earned scare you can gain art toy, cosmetic products and offline activity  tickets."
+      },
+      {
+        title: 'WHY JOIN THEIRSPACE',
+        content: "Theirspace is a gift redeem system, specifically dedicate to our holders.We provide many unique gift to our lovely famliy members.Our gifts include both online and offline, with your earned scare you can gain art toy, cosmetic products and offline activity  tickets."
+      }
+    ],
     homeGif: `${BaseURL}capsule/HomeCapsule.gif`,
     noTheirVerseCapsuleBg: `${BaseURL}capsule/noTheirverseCapsule.png`,
     noTheirVerseCapsule: `${BaseURL}capsule/noTheirverseCapsule.svg`,
