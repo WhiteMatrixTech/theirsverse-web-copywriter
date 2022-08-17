@@ -999,8 +999,9 @@ export default {
     day: [0, 5]
   },
   capsule: {
+    homeTitle: 'Theirs Spaceship',
+    homeDesc: 'Take your theirs and ride on our special spaceship, fly to the mysterious unknown Theirspace! In Theirspace you can not only meet interesting soul mates, bue  also begain to accure rewards and unlock additional benefits. Are you ready? Let’s go...',
     homeGif: `${BaseURL}capsule/HomeCapsule.gif`,
-    homeDesc: 'Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!Hi  Theirsverse introduction of the capsule platform!platform!Hi  Theirsverse introduction of the capsule platform!',
     noTheirVerseCapsuleBg: `${BaseURL}capsule/noTheirverseCapsule.png`,
     noTheirVerseCapsule: `${BaseURL}capsule/noTheirverseCapsule.svg`,
     pfpSelectedImg: `${BaseURL}capsule/pfp-selected.svg`,
