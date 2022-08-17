@@ -1035,6 +1035,7 @@ export default {
     enterSpaceShipVideo: `${BaseURL}capsule/SpaceShipBg.mp4`,
     enterSpaceShipVideoH5: `${BaseURL}capsule/SpaceShipBgH5.mp4`,
     spaceShipGif: `${BaseURL}capsule/SpaceShipAll.gif`,
+    spaceShipMask: `${BaseURL}capsule/spaceship-mask.png`,
     redeemStepFinish: `${BaseURL}capsule/step-finish.svg`,
     redeemSuccess: `${BaseURL}capsule/redeem-success.svg`,
     tipSvg: `${BaseURL}capsule/tip.svg`,
