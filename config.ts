@@ -1019,7 +1019,7 @@ export default {
     noTheirVerseCapsuleBg: `${BaseURL}capsule/noTheirverseCapsule.png`,
     noTheirVerseCapsule: `${BaseURL}capsule/noTheirverseCapsule.svg`,
     pfpSelectedImg: `${BaseURL}capsule/pfp-selected.svg`,
-    aliceOopsGif: 'https://theirsverse-resource.s3.ap-northeast-1.amazonaws.com/constracts/noWhite.gif',
+    aliceOopsGif: `${BaseURL}constracts/noWhite.gif`,
     profileBanner: `${BaseURL}capsule/ProfileBanner.svg`,
     pfpList: [
       `${BaseURL}capsule/pfpList/pfp1.png`,
