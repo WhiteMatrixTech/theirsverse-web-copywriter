@@ -1025,11 +1025,6 @@ export default {
     pfpSelectedImg: `${BaseURL}capsule/pfp-selected.svg`,
     aliceOopsGif: `${BaseURL}constracts/noWhite.gif`,
     profileBanner: `${BaseURL}capsule/ProfileBanner.svg`,
-    pfpList: [
-      `${BaseURL}capsule/pfpList/pfp1.png`,
-      `${BaseURL}capsule/pfpList/pfp2.png`,
-      `${BaseURL}capsule/pfpList/pfp3.png`
-    ],
     redeemBanner: `${BaseURL}capsule/RedeemBanner.svg`,
     defaultAvatar: `${BaseURL}capsule/default-avatar.svg`,
     editPencil: `${BaseURL}capsule/edit-pen.svg`,
@@ -1038,7 +1033,7 @@ export default {
     enterSpaceCapsuleGif: `${BaseURL}capsule/enter-capsule.png`,
     enterSpaceShipVideo: `${BaseURL}capsule/SpaceShipBg.mp4`,
     enterSpaceShipVideoH5: `${BaseURL}capsule/SpaceShipBgH5.mp4`,
-    spaceShipGif: `${BaseURL}capsule/SpaceShipAll.gif`,
+    spaceShipGif: `${BaseURL}capsule/SpaceShip.gif`,
     spaceShipMask: `${BaseURL}capsule/spaceship-mask.png`,
     redeemStepFinish: `${BaseURL}capsule/step-finish.svg`,
     redeemSuccess: `${BaseURL}capsule/redeem-success.gif`,
