@@ -1041,7 +1041,7 @@ export default {
     spaceShipGif: `${BaseURL}capsule/SpaceShipAll.gif`,
     spaceShipMask: `${BaseURL}capsule/spaceship-mask.png`,
     redeemStepFinish: `${BaseURL}capsule/step-finish.svg`,
-    redeemSuccess: `${BaseURL}capsule/redeem-success.svg`,
+    redeemSuccess: `${BaseURL}capsule/redeem-success.gif`,
     tipSvg: `${BaseURL}capsule/tip.svg`,
   },
   about: {
