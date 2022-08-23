@@ -1000,19 +1000,23 @@ export default {
   },
   capsule: {
     homeTitle: 'Theirs Spaceship',
-    homeDesc: 'Take your theirs and ride on our special spaceship, fly to the mysterious unknown Theirspace! In Theirspace you can not only meet interesting soul mates, bue  also begain to accure rewards and unlock additional benefits. Are you ready? Let’s go...',
+    homeDesc: 'Theirsverse Points and Redeem System just launched. Hurried up… Hop on our Theirs Sapceship, buckled up your NFTs, let’s fly to the mysterious Theirspace. In this journey you can gain points to accrue rewards and unlock more additional benefits. Are you ready? Let’s go!',
     TheirspaceDesc: [
       {
-        title: 'CONCEPT INTRODUCTION',
-        content: "Theirspace is a gift redeem system, specifically dedicate to our holders.We provide many unique gift to our lovely famliy members.Our gifts include both online and offline, with your earned scare you can gain art toy, cosmetic products and offline activity  tickets."
+        title: 'What is Theirspace?',
+        content: "Theirspace is an extended definition of the Theirsverse project. We want to build a fair, enjoyable, and equal view of the virtual world that leads our community into next step."
       },
       {
-        title: 'WHY JOIN THEIRSPACE',
-        content: "Theirspace is a gift redeem system, specifically dedicate to our holders.We provide many unique gift to our lovely famliy members.Our gifts include both online and offline, with your earned scare you can gain art toy, cosmetic products and offline activity  tickets."
+        title: 'What is Theirs Points?',
+        content: "Theirs points are awarded after making a pledge action by any Theirsverse’s holder. The points will not have any effect on the market value of NFT itself and you can use the points to redeem for prizes or other benefits."
       },
       {
-        title: 'WHY JOIN THEIRSPACE',
-        content: "Theirspace is a gift redeem system, specifically dedicate to our holders.We provide many unique gift to our lovely famliy members.Our gifts include both online and offline, with your earned scare you can gain art toy, cosmetic products and offline activity  tickets."
+        title: 'Why join Theirspace?',
+        content: "If you are a Theirsverse holder we highly recommend that you participate in Theirspace as we will be giving out more benefits to the community here both online and offline!"
+      },
+      {
+        title: 'About redeem gifts',
+        content: "We do not accept any return or exchange. Once you confirmed your redeem, your points will be automatically deducted. For any reason if you do not receive your gift, please contact us immediately in discord."
       }
     ],
     homeGif: `${BaseURL}capsule/HomeCapsule.gif`,
