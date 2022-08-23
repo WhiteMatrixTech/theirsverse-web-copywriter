@@ -1000,7 +1000,7 @@ export default {
   },
   capsule: {
     homeTitle: 'Theirs Spaceship',
-    homeDesc: 'Theirsverse Points and Redeem System just launched. Hurried up… Hop on our Theirs Sapceship, buckled up your NFTs, let’s fly to the mysterious Theirspace. In this journey you can gain points to accrue rewards and unlock more additional benefits. Are you ready? Let’s go!',
+    homeDesc: "Theirsverse Points and Redeem System just launched. Hurried up… Hop on our Theirs Sapceship, buckled up your NFTs, let's fly to the mysterious Theirspace. In this journey you can gain points to accrue rewards and unlock more additional benefits. Are you ready? Let's go!",
     TheirspaceDesc: [
       {
         title: 'What is Theirspace?',
@@ -1008,7 +1008,7 @@ export default {
       },
       {
         title: 'What is Theirs Points?',
-        content: "Theirs points are awarded after making a pledge action by any Theirsverse’s holder. The points will not have any effect on the market value of NFT itself and you can use the points to redeem for prizes or other benefits."
+        content: "Theirs points are awarded after making a pledge action by any Theirsverse's holder. The points will not have any effect on the market value of NFT itself and you can use the points to redeem for prizes or other benefits."
       },
       {
         title: 'Why join Theirspace?',
