@@ -1000,7 +1000,7 @@ export default {
   },
   capsule: {
     homeTitle: 'Theirs Spaceship',
-    homeDesc: "Theirsverse Points and Redeem System just launched. Hurried up… Hop on our Theirs Sapceship, buckled up your NFTs, let's fly to the mysterious Theirspace. In this journey you can gain points to accrue rewards and unlock more additional benefits. Are you ready? Let's go!",
+    homeDesc: " Points and Redeem System just launched. Hurried up… Hop on our Theirs Sapceship, buckled up your NFTs, let's fly to the mysterious Theirspace. In this journey you can gain points to accrue rewards and unlock more additional benefits. Are you ready? Let's go!",
     TheirspaceDesc: [
       {
         title: 'What is Theirspace?',
