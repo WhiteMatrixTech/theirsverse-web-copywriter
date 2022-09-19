@@ -971,7 +971,7 @@ export default {
       title: 'discord',
       img: `${BaseURL}footer/v2/discord.png`,
       header_image: `${BaseURL}social_header/discord.png`,
-      link: 'https://discord.com/invite/kytjV2PgUN',
+      link: 'https://discord.com/invite/amhyTgdq',
       width: '37.5',
       height: '37.5',
     },
