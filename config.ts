@@ -1004,7 +1004,7 @@ export default {
     TheirspaceDesc: [
       {
         title: 'What is Theirspace?',
-        content: "Theirspace is an extended definition of the Theirsverse project. We want to build a fair, enjoyable, and equal view of the virtual world that leads our community into next step."
+        content: "Theirspace is an extended definition of the Theirsverse project. We want to build a fair, enjoyable, and equal view of the virtual world that leads our community into the next step."
       },
       {
         title: 'What is Theirs Points?',
@@ -1015,8 +1015,8 @@ export default {
         content: "If you are a Theirsverse holder we highly recommend that you participate in Theirspace as we will be giving out more benefits to the community here both online and offline!"
       },
       {
-        title: 'About redeem gifts',
-        content: "We do not accept any return or exchange. Once you confirmed your redeem, your points will be automatically deducted. For any reason if you do not receive your gift, please contact us immediately in discord."
+        title: 'About redeeming gifts',
+        content: "We do not accept any returns or exchanges. Once you confirmed your redemption, your points will be automatically deducted.For any reason, if you do not receive your gift, please contact us immediately in discord."
       }
     ],
     homeGif: `${BaseURL}capsule/HomeCapsule.gif`,
