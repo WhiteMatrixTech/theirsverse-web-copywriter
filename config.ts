@@ -1,4 +1,4 @@
-export const BaseURL = 'https://d6bsd1popru6t.cloudfront.net/'
+export const BaseURL = 'https://dvwbdo552wk6v.cloudfront.net/'
 export default {
   ethIcon: BaseURL + 'constracts/eth.png',
   ethBanner: BaseURL + 'constracts/banner',
@@ -79,8 +79,8 @@ export default {
   },
   roadMap: {
     title: 'ROADMAP',
-    roadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-web.png',
-    iphoneRoadMapImg: 'https://d6bsd1popru6t.cloudfront.net/roadmap-mobile.png',
+    roadMapImg: 'https://dvwbdo552wk6v.cloudfront.net/roadmap-web.png',
+    iphoneRoadMapImg: 'https://dvwbdo552wk6v.cloudfront.net/roadmap-mobile.png',
     line1: 'Theirsverse is a new kind of community that we build together for the native web3 generation.',
     line2: 'Owning a Theirsverse NFT allows you to be the contributor and investor of a community-driven brand. It starts with building original IP, attending physical art & fashion events, participating in luxury collaborations, and much more that will be revealed over time.',
     line3: 'NFT is our invitation ticket. Art toy, virtual singer, and a whole metaverse are on the way.'
@@ -103,7 +103,7 @@ export default {
     part3: 'NFT holders will have priority for art exhibitions and concerts;',
     part4: 'Artists who contributed to our NFT collective will have the right to vote on the selection for limited edition NFTs;',
     part5: 'We will support artists from all over the world in art, visual media, and music through Theirsverse project.',
-    futureImg: 'https://d6bsd1popru6t.cloudfront.net/aboutfuture.jpg'
+    futureImg: 'https://dvwbdo552wk6v.cloudfront.net/aboutfuture.jpg'
   },
   futureV2: {
     title: `Holder's Benefits: `,
@@ -115,7 +115,7 @@ export default {
     part6: 'Early introduction and access to artworks by young artists.',
     part7: 'The ability to co-build our Theirsverse Youth Forum and Social Metaverse.',
     part8: 'We will support artists from all over the world in art, visual media, and music through Theirsverse project.',
-    futureImg: 'https://d6bsd1popru6t.cloudfront.net/aboutfuture.jpg'
+    futureImg: 'https://dvwbdo552wk6v.cloudfront.net/aboutfuture.jpg'
   },
   nft2: [
     {
